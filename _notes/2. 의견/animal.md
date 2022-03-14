@@ -5,5 +5,6 @@ title: animal
 
 animal
 
-[[cat]]
-[[cat2]]
+- [[cat]]
+- [[cat2]]
+- [[dog]]
