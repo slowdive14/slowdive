@@ -8,5 +8,5 @@ title: animal
 animal
 
 - [[cat]]
-- [[cat2]]
+- [[fish]]
 - [[dog]]

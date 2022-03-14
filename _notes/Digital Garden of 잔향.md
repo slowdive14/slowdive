@@ -19,7 +19,7 @@ You can find some links of note below that is good to start exploring.
 
 ### Permanent Notes
 - [[cat]]
-- [[cat2]]
+- [[fish]]
 
 ### Opinions
 - [[animal]]
