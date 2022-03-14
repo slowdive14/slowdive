@@ -3,6 +3,7 @@ title: P - 역사는 우리의 주관적 행복과는 관련 없이 흘러간다
 ---
 
 ### 작성일 : 2022-02-23 
+### 최종 수정일 : 2022-02-23
 ----
 ### 발췌
 >History is neither good nor bad, and its twists and turns are largely irrelevant to our subjective happiness.

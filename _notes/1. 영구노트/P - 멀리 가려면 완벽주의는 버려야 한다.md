@@ -2,6 +2,7 @@
 title: P - 멀리 가려면 완벽주의는 버려야 한다
 ---
 ### 작성일 : 2022-02-10 
+### 최종 수정일 : 2022-02-10
 
 >And so their lana learning journey is probably a lot more smooth, only there are fewer obstacles, whereas adults will put all sorts of obstacles in their i'm not good enough for this. Im i've got an accent, barbaba ye. So it does take time because, you know, it takes time, like in the same way that kids do it. So, as luke mentions, we adults often feel very insecure about ourselves.
 >
