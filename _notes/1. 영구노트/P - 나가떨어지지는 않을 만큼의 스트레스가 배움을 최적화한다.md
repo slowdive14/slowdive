@@ -11,13 +11,6 @@ title: P - 나가떨어지지는 않을 만큼의 스트레스가 배움을 최�
 - [[안티프래질]]
 
 ### 생각
-
-분야 : #1Philosophy_and_Psychology/15Psychology/155Developmental_And_Differential_Psychology/155_2Individual_Psychology/155_24Coping_and_Adaptation
-주제 :
-키워드 : 
-상태 : #작성중 
-
-생각의 확장 :
 - 저자의 주장에 따르면 잔잔한 스트레스는 몸을 병들게 하고 강한 스트레스는 몸을 강하게 만든다.
 - 언어학습에서 스트레스가 필수적이며, 스트레스가 클수록 학습을 더욱 효율적으로 만들 수 있다.
 - 하지만 스트레스가 너무 크다면 학습을 지속하기 어렵다.

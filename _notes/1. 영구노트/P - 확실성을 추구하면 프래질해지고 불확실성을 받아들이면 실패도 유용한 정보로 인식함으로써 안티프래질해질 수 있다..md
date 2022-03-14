@@ -9,13 +9,6 @@ P - 확실성을 추구하면 프래질해지고 불확실성을 받아들이면
 - [[안티프래질]]
 
 ### 생각
-
-분야 : #1Philosophy_and_Psychology/15Psychology/155Developmental_And_Differential_Psychology/155_2Individual_Psychology/155_24Coping_and_Adaptation
-주제 : #마인드셋 
-키워드 : [[K-불확실성]]
-상태 :  
-
-생각의 확장 :
 - 개인 차원에서 안티프래질하다는 것은 그로쓰 마인드셋을 지녔다는 것과 정확히 같은 말 아닌가.
 - 미래에 어떤 일이 발생하든 거의 대부분의 결과에는 성장의 씨앗이 내포돼 있다.
 
