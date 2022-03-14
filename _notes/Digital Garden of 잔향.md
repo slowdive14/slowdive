@@ -9,7 +9,7 @@ This is my digital garden.
 You can find some note links below.
 
 ### Permanent Notes
-[[P - 멀리 가려면 완벽주의는 버려야 한다]]
+[[p-멀리-가려면-완벽주의는-버려야-한다]]
 [[P - 중도에 위치하기보다 양 극단의 전략을 함께 사용하는 것이 효과적이다]]
 
 ### Opinion
