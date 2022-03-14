@@ -18,8 +18,8 @@ This is my digital garden.
 You can find some links of note below that is good to start exploring.
 
 ### Permanent Notes
-- [[고양이]]
-- [[물고기]]
+- [[cat]]
+- [[fish]]
 
 ### Opinions
-- [[동물]]
+- [[animal]]

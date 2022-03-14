@@ -7,6 +7,6 @@ title: animal
 
 animal
 
-- [[고양이]]
-- [[물고기]]
-- [[강아지]]
+- [[cat]]
+- [[fish]]
+- [[dog]]
