@@ -22,4 +22,4 @@ You can find some links of note below that is good to start exploring.
 - [[물고기]]
 
 ### Opinions
-- [[animal]]
+- [[동물]]
