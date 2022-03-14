@@ -13,10 +13,6 @@ title: P - 중도에 위치하기보다 양 극단의 전략을 함께 사용하
 
 ### 생각
 
-분야 : #1Philosophy_and_Psychology/15Psychology/155Developmental_And_Differential_Psychology/155_2Individual_Psychology/155_24Coping_and_Adaptation
-
-주제 : #마인드셋 
-
 키워드 : [[K-불확실성]]
 
 상태 :  
