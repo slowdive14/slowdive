@@ -8,5 +8,5 @@ title: animal
 animal
 
 - [[cat]]
-- [[fish]]
+- [[물고기]]
 - [[dog]]
