@@ -19,8 +19,8 @@ I am testing this site.
 You can find some links of note below that is good to start exploring.
 
 ### Permanent Notes
-- [[cat]]
+- [[고양이]]
 - [[물고기]]
 
 ### Opinions
-- [[animal]]
+- [[동물]]
