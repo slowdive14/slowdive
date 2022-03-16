@@ -23,4 +23,4 @@ You can find some links of note below that is good to start exploring.
 - [[P - 블로그는 청중을 향하는 공간이라기보다 자신의 생각을 키우는 공간이다]]
 
 ### Opinions
-- 
+- [[O - 단출한 삶의 이점_유연함과 명확함]]
