@@ -19,8 +19,8 @@ I am testing this site.
 You can find some links of note below that is good to start exploring.
 
 ### Permanent Notes
-- [[P - 메모의 목적은 정보 전달이 아니라 지식 생산이다]]
-- [[P - 블로그는 청중을 향하는 공간이라기보다 자신의 생각을 키우는 공간이다]]
+- [[메모의 목적은 정보 전달이 아니라 지식 생산이다]]
+- [[블로그는 청중을 향하는 공간이라기보다 자신의 생각을 키우는 공간이다]]
 
 ### Opinions
 - 
