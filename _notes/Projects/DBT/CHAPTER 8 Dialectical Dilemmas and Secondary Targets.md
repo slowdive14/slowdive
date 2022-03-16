@@ -1,24 +1,19 @@
 ---
 title: CHAPTER 8 Dialectical Dilemmas and Secondary Targets
 ---
-
 [TOC]
-- [[#BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS|BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS]]
-- [[#THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT|THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT]]
-	- [[#Emotional Vulnerability versus Self-Invalidation|Emotional Vulnerability versus Self-Invalidation]]
-	- [[#Active Passivity versus Apparent Competence|Active Passivity versus Apparent Competence]]
-	- [[#Unrelenting Crisis versus Inhibited Grieving|Unrelenting Crisis versus Inhibited Grieving]]
-- [[#DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS|DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS]]
-- [[#SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS|SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS]]
-- [[#FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE|FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE]]
-- [[#WHY JUST THREE DIALECTICAL DILEMMAS?|WHY JUST THREE DIALECTICAL DILEMMAS?]]
-
+- [BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS](BIOSOCIAL-THEORY-AND-DIALECTICAL-DILEMMAS)
+- [THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT](THE-NATURE-OF-THE-THREE-DIALECTICAL-DILEMMAS-IN-CLINICAL-CONTEXT)
+- [DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS](DERIVING-DBT'S-SECONDARY-TARGETS-FROM-THE-DIALECTICAL-DILEMMAS)
+- [SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS](SOME-SUGGESTIONS-FOR-WORKING-WITH-PATIENTS-AROUND-DIALECTICAL-DILEMMAS)
+- [FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE](FROM-DIALECTICAL-DILEMMAS-TO-SECONDARY-TARGETS-TO-TREATMENT-PLANNING:-A-CASE-EXAMPLE)
+- [WHY JUST THREE DIALECTICAL DILEMMAS?](WHY-JUST-THREE-DIALECTICAL-DILEMMAS?)
 
 이번 챕터에서 다루는 내용
-(1) the crucial theoretical relationship between DBT’s biosocial theory and the dialectical dilemmas; 
-(2) the nature of the three dialectical dilemmas in clinical context; 
-(3) how we derive the secondary targets in DBT (those behavioral patterns that cause and maintain the primary target behaviors) from the dialectical dilemmas, and how we use them; 
-(4) how we can identify additional dialectical dilemmas and secondary targets.
+- (1) the crucial theoretical relationship between DBT’s biosocial theory and the dialectical dilemmas; 
+- (2) the nature of the three dialectical dilemmas in clinical context; 
+- (3) how we derive the secondary targets in DBT (those behavioral patterns that cause and maintain the primary target behaviors) from the dialectical dilemmas, and how we use them; 
+- (4) how we can identify additional dialectical dilemmas and secondary targets.
 
 # BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS
 Emotional Vulnerability
