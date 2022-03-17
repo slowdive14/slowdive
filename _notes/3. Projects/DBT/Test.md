@@ -1,7 +1,9 @@
 ---
 title: Test
 ---
-
+Table of Contents
+---
+<br>
 <div class='md-toc' mdtype='toc'>
     <p class="md-toc-content" role="list">
         <span role="listitem" class="md-toc-item md-toc-h1" data-ref="n33">
