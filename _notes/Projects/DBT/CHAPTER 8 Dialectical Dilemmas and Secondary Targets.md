@@ -1,11 +1,12 @@
 ---
 title: CHAPTER 8 Dialectical Dilemmas and Secondary Targets
 ---
-[TOC]
 
 
+{:toc}
 
 이번 챕터에서 다루는 내용
+
 - (1) the crucial theoretical relationship between DBT’s biosocial theory and the dialectical dilemmas; 
 - (2) the nature of the three dialectical dilemmas in clinical context; 
 - (3) how we derive the secondary targets in DBT (those behavioral patterns that cause and maintain the primary target behaviors) from the dialectical dilemmas, and how we use them; 
