@@ -1,17 +1,9 @@
 ---
 title: CHAPTER 8 Dialectical Dilemmas and Secondary Targets
 ---
-Table of Contents
+[TOC]
 
-- [BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS](#biosocial-theory-and-dialectical-dilemmas)
-- [THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT](#the-nature-of-the-three-dialectical-dilemmas-in-clinical-context)
-  * [Emotional Vulnerability versus Self-Invalidation](#emotional-vulnerability-versus-self-invalidation)
-  * [Active Passivity versus Apparent Competence](#active-passivity-versus-apparent-competence)
-  * [Unrelenting Crisis versus Inhibited Grieving](#unrelenting-crisis-versus-inhibited-grieving)
-- [DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS](#deriving-dbt's-secondary-targets-from-the-dialectical-dilemmas)
-- [SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS](#some-suggestions-for-working-with-patients-around-dialectical-dilemmas)
-- [FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE](#from-dialectical-dilemmas-to-secondary-targets-to-treatment-planning:-a-case-example)
-- [WHY JUST THREE DIALECTICAL DILEMMAS?](#why-just-three-dialectical-dilemmas?)
+
 
 이번 챕터에서 다루는 내용
 - (1) the crucial theoretical relationship between DBT’s biosocial theory and the dialectical dilemmas; 
