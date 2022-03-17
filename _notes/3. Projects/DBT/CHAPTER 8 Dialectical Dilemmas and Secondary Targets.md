@@ -51,15 +51,15 @@ Emotional Vulnerability
 - Slow return to baseline
 
 Invalidating Environment
-- (1) judge, disregard, dismiss, pathologize, or otherwise punish the individual’s valid emotional responses; 
-- (2) intermittently reinforce the escalation of emotional responses; 
-- (3) oversimplify the ease of solving emotional problems.
+- judge, disregard, dismiss, pathologize, or otherwise punish the individual’s valid emotional responses; 
+- intermittently reinforce the escalation of emotional responses; 
+- oversimplify the ease of solving emotional problems.
 
 매개 변인으로서의 Emotional Intelligence(발달이 잘 안 됐을 때 chronic and severe emotional dysregulation)
-- (1) to inhibit inappropriate behavior related to strong negative or positive affect; 
-- (2) to self-regulate physiological arousal associated with affect; 
-- (3) to refocus attention in the presence of strong affect; 
-- (4) to organize oneself for ongoing action in the service of an external, non-mood-dependent goal.
+- to inhibit inappropriate behavior related to strong negative or positive affect; 
+- to self-regulate physiological arousal associated with affect; 
+- to refocus attention in the presence of strong affect; 
+- to organize oneself for ongoing action in the service of an external, non-mood-dependent goal.
 
 Rather than the objective, scientific perspective of the biosocial theory, the dialectical dilemmas represent the subjective perspective of the individual. For instance, emotional vulnerability is a scientifically defined construct, seen from the “outside-in,” when we are considering the biosocial theory; but the same term, when used to name one of the dialectical dilemmas, refers to the “inside-out” perspective of one who is suffering from uncontrollable, agonizing emotional responses. -> move from the language of theory to the language of personal experience.
 
