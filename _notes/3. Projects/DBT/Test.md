@@ -2,7 +2,7 @@
 title: Test
 ---
 Table of Contents
-
+---
 <div class='md-toc' mdtype='toc'>
     <p class="md-toc-content" role="list">
         <span role="listitem" class="md-toc-item md-toc-h1" data-ref="n33">
@@ -32,7 +32,7 @@ Table of Contents
 		
 		<br>
                                                               <span role="listitem" class="md-toc-item md-toc-h1" data-ref="n214"><a class="md-toc-inner" href="#why-just-three-dialectical-dilemmas"> 6. WHY JUST THREE DIALECTICAL DILEMMAS?</a></span></p>
-                                                                            </div>
+                                                                            </div> <br><Br>
 																			
 																			
 																			
@@ -41,7 +41,7 @@ Table of Contents
 1. the crucial theoretical relationship between DBT’s biosocial theory and the dialectical dilemmas
 2. the nature of the three dialectical dilemmas in clinical context; 
 3. how we derive the secondary targets in DBT (those behavioral patterns that cause and maintain the primary target behaviors) from the dialectical dilemmas, and how we use them
-4. how we can identify additional dialectical dilemmas and secondary targets.
+4. how we can identify additional dialectical dilemmas and secondary targets.<br><br>
 
 # BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS
 Emotional Vulnerability
