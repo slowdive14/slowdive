@@ -14,7 +14,7 @@ I am testing this site.
 2. I write articles on [my blog](https://slowdive14.tistory.com/).
 3. Nowadays, I'm insanely curious about knowledge management.
 4. I think about how to use this site more effectively to organize my thoughts.
-5. You can directly reach me in [my twitter account](https://twitter.com/slowdive15).
+5. You can directly reach me in [my twitter account](https://twitter.com/slowdive15) or lookdiffangle@gmail.com
 
 You can find some links of note below that is good to start exploring.
 
@@ -28,3 +28,6 @@ You can find some links of note below that is good to start exploring.
 ### Projects
 #### 1. DBT Principles in Action
 - [[CHAPTER 8 Dialectical Dilemmas and Secondary Targets]]
+
+### Library
+- [[List of Books]]
