@@ -32,18 +32,19 @@ Table of Contents
 		
 		<br>
                                                               <span role="listitem" class="md-toc-item md-toc-h1" data-ref="n214"><a class="md-toc-inner" href="#why-just-three-dialectical-dilemmas"> 6. WHY JUST THREE DIALECTICAL DILEMMAS?</a></span></p>
-                                                                            </div> <br><Br>
+                                                                            </div> <br>
 																			
 																			
-																			
-																			
+												
+---
 **이번 챕터에서 다루는 내용**
-1. the crucial theoretical relationship between DBT’s biosocial theory and the dialectical dilemmas
-2. the nature of the three dialectical dilemmas in clinical context; 
-3. how we derive the secondary targets in DBT (those behavioral patterns that cause and maintain the primary target behaviors) from the dialectical dilemmas, and how we use them
-4. how we can identify additional dialectical dilemmas and secondary targets.<br><br>
+- the crucial theoretical relationship between DBT’s biosocial theory and the dialectical dilemmas
+- the nature of the three dialectical dilemmas in clinical context; 
+- how we derive the secondary targets in DBT (those behavioral patterns that cause and maintain the primary target behaviors) from the dialectical dilemmas, and how we use them
+- how we can identify additional dialectical dilemmas and secondary targets.
+---
 
-# BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS
+# 1. BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS
 Emotional Vulnerability
 - Emotional sensitiity
 - Emotional reactivity
@@ -64,7 +65,7 @@ Rather than the objective, scientific perspective of the biosocial theory, the d
 
 Once the particular dialectical dilemmas and patterns are identified, and a language to describe them that fosters collaboration is developed, the therapist and patient can work persistently on fading out the extreme patterns and replacing them with skillful ones that are conceptually located in the middle path between the two extremes.
 
-# THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT
+# 2. THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT
 
 ## Emotional Vulnerability versus Self-Invalidation
 Effective modulation of emotions
@@ -99,7 +100,7 @@ Processing of significant losses and traumatic events
     - Inhibited grieving can result in temporary shutdowns of emotional experiencing altogether, which then set the stage for _sudden eruptions_ of suppressed experience resulting in unrelenting crisis or the other two biologically driven patterns of active passivity and emotional vulnerability.
 - The DBT therapist tries to help the patient to develop, in the case of each of the three dilemmas, a “middle path” channel whereby she can effectively 1) modulate emotions, 2) ask for help, and 3) process loss and trauma.
 
-# DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS
+# 3. DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS
 
 - 자해가 수치심을 느끼는 상황에서 발생한다면 수치심이 이차 타깃이 됨.(자해 행동을 줄이는 것이 일차 타깃)
 - 세 가지 변증법적 딜레마의 특성과 관련하여 여섯 가지 문제 행동 패턴이 나타날 수 있음. 각각의 패턴이 primary target behavior를 촉진하거나 유지하는 데 영향을 미칠 수 있기 때문에, 각 패턴을 resolution하는 것이 이차 타깃이 될 수 있음.
@@ -130,7 +131,7 @@ Processing of significant losses and traumatic events
             - 11)-(1) Decreasing inhibited grieving must take place in a therapeutic relationship when trust has developed. Within such a safe context the therapist _helps the patient to understand that she has suffered crucial losses and traumas_, that these are real and have exerted real impacts, that the process of inhibiting such memories and experiences has negative consequences, _and that, with assistance, these negative life events can be approached safely and thoughtfully without losing control_.
             - 생활에서 정서를 억압하지 않고 경험할 수 있게 돕고, <u>치료자-내담자 신뢰가 쌓이고 내담자가 정서조절 기술(the modules of core mindfulness, emotion regulation, and distress tolerance) 습득이 된 상태에서 외상 기억 처리를 원할 때 상실과 외상에 대한 치료적 개입이 이루어짐.</u>
 
-# SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS
+# 4. SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS
 
 1. 한쪽 극성이 시사되면 다른 쪽 극성도 지니고 있을 가능성을 고려하라.
 2. 어려운 용어를 피하고 내담자와 상호협력하여 내담자 눈높이에 맞는 언어를 사용하라.
@@ -138,9 +139,9 @@ Processing of significant losses and traumatic events
 4. secondary target을 명확하게 설정하여 diary card에서 발생 빈도와 발생의 결과를 모니터링할 수 있다.
 5. It is my experience that the more clearly I can conjure up(떠올리다) this image of my patients as functional individuals in their particularly troublesome domains of functioning, and the more I can specifically identify skill sets that will serve them toward actualizing that functional.. 
 
-# FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE
+# 5. FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE
 
-# WHY JUST THREE DIALECTICAL DILEMMAS?
+# 6. WHY JUST THREE DIALECTICAL DILEMMAS?
 - 경험적 근거는 없지만 DIALECTICAL DILEMMAS는 정상 발달 과정의 역기능적 결과로 이해하는 것이 유용하다. 
 - The child with heightened, biologically based emotional vulnerability, who undertakes this developmental task in the pervasively invalidating context, experiences two dysfunctional patterns with respect to emotion modulation, 
     - one more biologically driven (emotional vulnerability) and the other more socially driven (self-invalidation).
