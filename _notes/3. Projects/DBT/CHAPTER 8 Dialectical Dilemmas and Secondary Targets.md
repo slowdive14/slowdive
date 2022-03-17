@@ -1,5 +1,5 @@
 ---
-title: Test
+title: CHAPTER 8 Dialectical Dilemmas and Secondary Targets
 ---
 Table of Contents
 ---
