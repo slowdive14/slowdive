@@ -4,14 +4,19 @@ title: CHAPTER 8 Dialectical Dilemmas and Secondary Targets
 
 Created: 2022-03-12
 
-Table of Contents
----
- 
+# Table of contents(testing)
 
-																			
-																			
-												
----
+- [1. BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS](#1-biosocial-theory-and-dialectical-dilemmas)
+- [2. THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT](#2-the-nature-of-the-three-dialectical-dilemmas-in-clinical-context)
+  - [Emotional Vulnerability versus Self-Invalidation](#emotional-vulnerability-versus-self-invalidation)
+  - [Active Passivity versus Apparent Competence](#active-passivity-versus-apparent-competence)
+  - [Unrelenting Crisis versus Inhibited Grieving](#unrelenting-crisis-versus-inhibited-grieving)
+- [3. DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS](#3-deriving-dbts-secondary-targets-from-the-dialectical-dilemmas)
+- [4. SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS](#4-some-suggestions-for-working-with-patients-around-dialectical-dilemmas)
+- [5. FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE](#5-from-dialectical-dilemmas-to-secondary-targets-to-treatment-planning-a-case-example)
+- [6. WHY JUST THREE DIALECTICAL DILEMMAS?](#6-why-just-three-dialectical-dilemmas)
+
+---																
 **이번 챕터에서 다루는 내용**
 - the crucial theoretical relationship between DBT’s biosocial theory and the dialectical dilemmas
 - the nature of the three dialectical dilemmas in clinical context
@@ -126,17 +131,5 @@ Processing of significant losses and traumatic events
 - And when the important developmental task of managing and processing loss and traumas takes place in the biosocial transactional force field, the dialectical dilemma of unrelenting crisis versus inhibited grieving is the outcome, 
     - the former more driven by the biological factor and the latter by the invalidating environment.
 - we can think of them as three excellent and typical examples of a formula by which the miscarriage of a developmental task results in two dysfunctional patterns related to that task.
-
-# Table of contents
-
-- [1. BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS](#1-biosocial-theory-and-dialectical-dilemmas)
-- [2. THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT](#2-the-nature-of-the-three-dialectical-dilemmas-in-clinical-context)
-  - [Emotional Vulnerability versus Self-Invalidation](#emotional-vulnerability-versus-self-invalidation)
-  - [Active Passivity versus Apparent Competence](#active-passivity-versus-apparent-competence)
-  - [Unrelenting Crisis versus Inhibited Grieving](#unrelenting-crisis-versus-inhibited-grieving)
-- [3. DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS](#3-deriving-dbts-secondary-targets-from-the-dialectical-dilemmas)
-- [4. SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS](#4-some-suggestions-for-working-with-patients-around-dialectical-dilemmas)
-- [5. FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE](#5-from-dialectical-dilemmas-to-secondary-targets-to-treatment-planning-a-case-example)
-- [6. WHY JUST THREE DIALECTICAL DILEMMAS?](#6-why-just-three-dialectical-dilemmas)
 
 
