@@ -25,9 +25,10 @@ You can find some links of note below that is good to start exploring.
 ### Opinions
 - [[O - 단출한 삶의 이점_유연함과 명확함]]
 
-### Projects
-#### 1. DBT Principles in Action
-- [[CHAPTER 8 Dialectical Dilemmas and Secondary Targets]]
-
 ### Library
 - [[List of Books]]
+
+### Projects
+1. DBT Principles in Action
+	- [[CHAPTER 8 Dialectical Dilemmas and Secondary Targets]]
+
