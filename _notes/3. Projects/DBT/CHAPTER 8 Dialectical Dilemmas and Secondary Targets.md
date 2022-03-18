@@ -16,14 +16,14 @@ Table of Contents
                         <a class="md-toc-inner" href="#the-nature-of-the-three-dialectical-dilemmas-in-clinical-context"> 2. THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT </a></span>
 		<br>
                                 <span role="listitem" class="md-toc-item md-toc-h2" data-ref="n63">
-                                    <a class="md-toc-inner" href="#emotional-vulnerability-versus-self-invalidation"> - Emotional Vulnerability versus Self - Invalidation </a></span>
+                                    <a class="md-toc-inner" href="##emotional-vulnerability-versus-self-invalidation"> - Emotional Vulnerability versus Self - Invalidation </a></span>
 		<br>
                                             <span role="listitem" class="md-toc-item md-toc-h2" data-ref="n85">
-                                                <a class="md-toc-inner" href="#active-passivity-versus-apparent-competence"> - Active Passivity versus Apparent Competence </a></span>
+                                                <a class="md-toc-inner" href="##active-passivity-versus-apparent-competence"> - Active Passivity versus Apparent Competence </a></span>
 		
 		<br>
                                                         <span role="listitem" class="md-toc-item md-toc-h2" data-ref="n105">
-                                                            <a class="md-toc-inner" href="#unrelenting-crisis-versus-inhibited-grieving"> - Unrelenting Crisis versus Inhibited Grieving </a></span>
+                                                            <a class="md-toc-inner" href="##unrelenting-crisis-versus-inhibited-grieving"> - Unrelenting Crisis versus Inhibited Grieving </a></span>
 		
 		<br>
                                                               <span role="listitem" class="md-toc-item md-toc-h1" data-ref="n125"> <a class="md-toc-inner" href="#deriving-dbts-secondary-targets-from-the-dialectical-dilemmas"> 3. DERIVING DBT 'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS</a></span>
