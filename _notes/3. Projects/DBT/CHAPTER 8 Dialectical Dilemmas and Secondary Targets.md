@@ -6,10 +6,12 @@ Created: 2022-03-12
 
 Table of Contents
 ---
+
+[[#1 BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS]]
 <div class='md-toc' mdtype='toc'>
     <p class="md-toc-content" role="list">
         <span role="listitem" class="md-toc-item md-toc-h1" data-ref="n33">
-            <a class="md-toc-inner" href="#biosocial-theory-and-dialectical-dilemmas"> 1. BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS </a></span>
+            <a class="md-toc-inner" href="#biosocial-theory-and-dialectical-dilemmas">1. BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS </a></span>
 		<br>
                     <span role="listitem" class="md-toc-item md-toc-h1" data-ref="n62">
                         <a class="md-toc-inner" href="#the-nature-of-the-three-dialectical-dilemmas-in-clinical-context"> 2. THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT </a></span>
