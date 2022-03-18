@@ -156,5 +156,16 @@ Processing of significant losses and traumatic events
     - the former more driven by the biological factor and the latter by the invalidating environment.
 - we can think of them as three excellent and typical examples of a formula by which the miscarriage of a developmental task results in two dysfunctional patterns related to that task.
 
+# Table of contents
+
+- [1. BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS](#1-biosocial-theory-and-dialectical-dilemmas)
+- [2. THE NATURE OF THE THREE DIALECTICAL DILEMMAS IN CLINICAL CONTEXT](#2-the-nature-of-the-three-dialectical-dilemmas-in-clinical-context)
+  - [Emotional Vulnerability versus Self-Invalidation](#emotional-vulnerability-versus-self-invalidation)
+  - [Active Passivity versus Apparent Competence](#active-passivity-versus-apparent-competence)
+  - [Unrelenting Crisis versus Inhibited Grieving](#unrelenting-crisis-versus-inhibited-grieving)
+- [3. DERIVING DBT'S SECONDARY TARGETS FROM THE DIALECTICAL DILEMMAS](#3-deriving-dbts-secondary-targets-from-the-dialectical-dilemmas)
+- [4. SOME SUGGESTIONS FOR WORKING WITH PATIENTS AROUND DIALECTICAL DILEMMAS](#4-some-suggestions-for-working-with-patients-around-dialectical-dilemmas)
+- [5. FROM DIALECTICAL DILEMMAS TO SECONDARY TARGETS TO TREATMENT PLANNING: A CASE EXAMPLE](#5-from-dialectical-dilemmas-to-secondary-targets-to-treatment-planning-a-case-example)
+- [6. WHY JUST THREE DIALECTICAL DILEMMAS?](#6-why-just-three-dialectical-dilemmas)
 
 
