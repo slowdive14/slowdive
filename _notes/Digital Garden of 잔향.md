@@ -4,9 +4,9 @@ title: Digital Garden of 잔향
 
 ### Welcome!
 
-My name is SONG-IN, OH.
+My name is SONG-IN, OH.🙂
 
-This is my digital garden.
+This is my digital garden.🌼
 
 I am testing this site.
 
@@ -16,7 +16,7 @@ I am testing this site.
 4. I think about how to use this site more effectively to organize my thoughts.
 5. You can directly reach me in [my twitter account](https://twitter.com/slowdive15) or lookdiffangle@gmail.com
 
-You can find some links of note below that is good to start exploring.
+You can find some links of note below that is good to start exploring.🚀
 
 ### Permanent Notes
 - [[P - 메모의 목적은 정보 전달이 아니라 지식 생산이다]]
