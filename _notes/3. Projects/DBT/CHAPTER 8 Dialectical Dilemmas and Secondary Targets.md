@@ -94,9 +94,9 @@ Processing of significant losses and traumatic events
         - With respect to the pattern of _active passivity_, the therapist may be working toward 5) decreasing behaviors that solve problems by eliciting rescue from others and 6) increasing active problem solving. 
             - Once the secondary targets are fleshed out in sufficient details, the therapist can employ DBT strategies to accomplish them. 
                 - For instance, increasing active problem solving may require 
-                    - (1) improved emotion regulation skills that help to reduce avoidance, 
-                    - (2) better interpersonal effectiveness skills to sharpen the capacity to self-assert and to say “no,” or 
-                    - (3) more enhanced self-management skills to strengthen executive functioning.
+                    - 6)-(1) improved emotion regulation skills that help to reduce avoidance, 
+                    - 6)-(2) better interpersonal effectiveness skills to sharpen the capacity to self-assert and to say “no,” or 
+                    - 6)-(3) more enhanced self-management skills to strengthen executive functioning.
         - With respect to the pattern of _apparent competence_, the therapist may be working toward 
             - 7) decreasing mood dependency of behaviors 
                 - patient must learn to separate his current mood from his current actions such that actions are aligned with goals rather than moods.
