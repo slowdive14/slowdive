@@ -7,7 +7,8 @@ Created: 2022-03-12
 Table of Contents
 ---
 
-[[#1 BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS]]
+ <a href="#biosocial-theory-and-dialectical-dilemmas">1. BIOSOCIAL THEORY AND DIALECTICAL DILEMMAS </a>
+ 
 <div class='md-toc' mdtype='toc'>
     <p class="md-toc-content" role="list">
         <span role="listitem" class="md-toc-item md-toc-h1" data-ref="n33">
