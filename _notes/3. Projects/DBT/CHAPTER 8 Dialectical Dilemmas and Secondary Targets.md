@@ -2,7 +2,7 @@
 title: CHAPTER 8 Dialectical Dilemmas and Secondary Targets
 ---
 
-Created: 2022-03-11
+Created: 2022-03-12
 
 Table of Contents
 ---
