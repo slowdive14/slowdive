@@ -25,9 +25,9 @@ You can find some links of note below that is good to start exploring.🚀
 - [[_Index_of_2. 의견]]
 
 ### Library
-- [[_Index_of_4. Library]]]
+- [[_Index_of_4. Library]]
 
 ### Projects
 1. DBT Principles in Action
-	- [[_Index_of_DBT]]]
+	- [[_Index_of_DBT]]
 
