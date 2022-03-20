@@ -18,16 +18,9 @@ I am testing this site.
 
 You can find some links of note below that is good to start exploring.🚀
 
-### Permanent Notes
-- [[Index of Permanent Notes]]
 
-### Opinions
-- [[Index of Opinions]]
 
-### Library
-- [[Index of Library]]
-
-### Projects
-1. DBT Principles in Action
-	- [[Index of Chapters]]
+| [[Index of Permanent Notes]] | [[Index of Opinions]] |
+|:---------------------------- |:--------------------- |
+| [[Index of Library]]         | [[Index of Projects]] |
 
