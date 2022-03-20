@@ -8,19 +8,19 @@ My name is SONG-IN, OH.🙂
 
 This is my digital garden.🌼
 
-I am testing this site.
+_I am testing this site._
 
-1. I am a Clinical Psychologist in South Korea.
-2. I write articles on [my blog](https://slowdive14.tistory.com/).
-3. Nowadays, I'm insanely curious about knowledge management.
-4. I think about how to use this site more effectively to organize my thoughts.
-5. You can directly reach me in [my twitter account](https://twitter.com/slowdive15) or lookdiffangle@gmail.com
+- I am a Clinical Psychologist in South Korea.
+- I write articles on [my blog](https://slowdive14.tistory.com/).
+- Nowadays, I'm insanely curious about knowledge management.
+- I think about how to use this site more effectively to organize my thoughts.
+- You can directly reach me in [my twitter account](https://twitter.com/slowdive15) or lookdiffangle@gmail.com
 
 You can find some links of note below that is good to start exploring.🚀
 
 
 
-| [[Index of Permanent Notes]]     | [[Index of Opinions]]       |
+| 1. [[Index of Permanent Notes]]     | 2. [[Index of Opinions]]       |
 |:-------------------------------- |:-------------------------   |
-| [[Index of Library]]             | [[Index of Projects]]       |
+| 3. [[Index of Library]]             | 4. [[Index of Projects]]       |
 
