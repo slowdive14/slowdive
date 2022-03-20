@@ -22,12 +22,12 @@ You can find some links of note below that is good to start exploring.🚀
 - [[Index of Permanent Notes]]
 
 ### Opinions
-- [[_Index_of_2. 의견]]
+- [[Index of Opinions]]
 
 ### Library
-- [[_Index_of_4. Library]]
+- [[Index of Library]]
 
 ### Projects
 1. DBT Principles in Action
-	- [[_Index_of_DBT]]
+	- [[Index of Chapters]]
 
