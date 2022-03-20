@@ -19,7 +19,7 @@ I am testing this site.
 You can find some links of note below that is good to start exploring.🚀
 
 ### Permanent Notes
-- [[_Index_of_1. 영구노트]]
+- [[Index of 1. 영구노트]]
 
 ### Opinions
 - [[_Index_of_2. 의견]]
