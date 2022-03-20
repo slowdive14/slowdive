@@ -20,7 +20,7 @@ You can find some links of note below that is good to start exploring.🚀
 
 
 
-| [[Index of Permanent Notes]] | [[Index of Opinions]] |
-|:---------------------------- |:--------------------- |
-| [[Index of Library]]         | [[Index of Projects]] |
+| [[Index of Permanent Notes]]     | [[Index of Opinions]]       |
+|:-------------------------------- |:-------------------------   |
+| [[Index of Library]]             | [[Index of Projects]]       |
 
