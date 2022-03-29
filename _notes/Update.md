@@ -1,5 +1,5 @@
 2022.03.29
-- Language Exchange with Jay [[D - 2022.03.28]] 
+- Language Exchange with Jay [[J - 2022.03.28]] 
 
 2022.03.28
 - [[P - 동기는 To-do 리스트를 만들고 데드라인을 설정한 결과이다]]

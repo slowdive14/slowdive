@@ -2,4 +2,4 @@
 - [[Index of Chapters]]
 
 2. Language Exchange with Jay
-- [[D - 2022.03.28]]
+- [[J - 2022.03.28]]
