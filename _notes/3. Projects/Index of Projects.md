@@ -1,5 +1,5 @@
 1. DBT Principles in Action
 - [[Index of Chapters]]
 
-2. Language Exchange with Jay
+2. Journal
 - [[Index of Journal]]
