@@ -9,6 +9,7 @@ title: O - ADHD의 관점에서 본 개인지식관리(Personal Knowledge Manage
 PKM(Personal Knowledge Management systems)은 개인지식관리 체계의 약자입니다. 위키피디아에 정의가 아래와 같이 나옵니다. 
 
 >Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities (Grundspenkis 2007) and the way in which these processes support work activities (Wright 2005).
+>
 >개인 지식 관리(PKM)는 개인이 일상 활동에서 지식을 수집, 분류, 저장, 검색, 인출 및 공유하기 위해 사용하는 정보 수집 과정이며(Grundspenkis 2007) 이러한 과정이 업무 활동을 지원하는 방식을 가리킨다(Write 2005).
 
 위 정의와 무관하게, 제가 이해하기로 PKM은 쏟아지는 정보 중에서 자기 관심사에 맞는 어떤 정보들을 수집하여 필요할 때 다시 찾아보기 편하게 만드는 저마다의 분류 체계입니다. 어떤 잘 확립된 보편적 체계가 아니라 각자가 구성하고 시행착오를 통해 끊임없이 수정해 나가는 그런 살아 있는 체계에 가깝습니다. 
@@ -29,7 +30,7 @@ Marie는 통용되는 생산성 전략이 자신에게 안 맞을 수 있고, �
 
 Bryan은 [todoist](https://todoist.com/home?gspk=c2VtYW50aWNsYWJzNzMxNw&utm_campaign=strategic_partner&utm_content=semanticlabs7317&utm_medium=strategic_partner&utm_source=partnerstack&sid=1-g-CjwKCAjw3cSSBhBGEiwAVII0Zx_e36oivDTZrtEKp1Q4k_NX7yavxEvmycWfzb0RtA4dMrq7WAyJ9BoCJSMQAvD_BwE&gclid=CjwKCAjw3cSSBhBGEiwAVII0Zx_e36oivDTZrtEKp1Q4k_NX7yavxEvmycWfzb0RtA4dMrq7WAyJ9BoCJSMQAvD_BwE) 및 캘린더를 사용하여 해야 할 일의 목록을 한눈에 볼 수 있게 만드는 것이 관건이라고 말합니다. Marie가 강조했던 것처럼 Bryan도 목록에 없는 것은 할 수가 없다고 말합니다. 하루에 해야 하는 일이 50개 정도 목록에 있다고 하는데, 양치질과 같은 기본적인 것도 빠짐없이 다 들어가 있는 듯합니다. 이런 Bryan의 특성을 아는 연인이나 가족은 Bryan에게 어떤 일이 캘린더에 적혀 있는지 물어볼 때가 많다 하고요.
 
-PKM(정확한 워딩은 second brain[^5])이 없다면 어떻게 될 것 같은지 묻자 Marie는 "완전한 혼돈(pure chaos)"라고 답합니다. Bryan은 유튜브에서 자신이 이만큼 인기 있을 수 없었을 거라고 말하고, Jesse는 책을 못 쓸 것이라고 말합니다. Marie와 Jesse 모두 PKM이 있기 때문에 해야 할 일을 해낼 수 있다고 얘기합니다.
+PKM(영상에서의 정확한 워딩은 second brain[^5])이 없다면 어떻게 될 것 같은지 묻자 Marie는 "완전한 혼돈(pure chaos)"라고 답합니다. Bryan은 유튜브에서 자신이 이만큼 인기 있을 수 없었을 거라고 말하고, Jesse는 책을 못 쓸 것이라고 말합니다. Marie와 Jesse 모두 PKM이 있기 때문에 해야 할 일을 해낼 수 있다고 얘기합니다.
 
 마지막에 유튜브 라이브를 보던 시청자의 질문이 저도 궁금했던 부분입니다. PKM을 구축하려면 상당한 실행기능이 요구되는데 ADHD를 지닌 사람이 어떻게 가능하냐는 물음입니다. 이에 Jesse의 말을 직접 들어보는 것이 도움이 될 것 같습니다.
 
