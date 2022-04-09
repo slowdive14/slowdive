@@ -6,7 +6,7 @@ title: O - ADHD의 관점에서 본 개인지식관리(Personal Knowledge Manage
 
 'ADHD를 지닌 사람의 관점에서 본 PKM'이라는 타이틀에 끌려서 보게 된 영상입니다. 
 
-PKM(Personal Knowledge Management systems)은 개인지식관리 체계의 약자입니다. 위키피디아에 정의가 아래와 같이 옵니다. 
+PKM(Personal Knowledge Management systems)은 개인지식관리 체계의 약자입니다. 위키피디아에 정의가 아래와 같이 나옵니다. 
 
 >Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities (Grundspenkis 2007) and the way in which these processes support work activities (Wright 2005).
 >개인 지식 관리(PKM)는 개인이 일상 활동에서 지식을 수집, 분류, 저장, 검색, 인출 및 공유하기 위해 사용하는 정보 수집 과정이며(Grundspenkis 2007) 이러한 과정이 업무 활동을 지원하는 방식을 가리킨다(Write 2005).
