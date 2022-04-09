@@ -5,6 +5,7 @@ title: P - ADHD는 디폴트 모드 네트워크를 억제하는 능력의 부�
 Created: 2022-04-08
 
 >Ability to sustain default mode suppression is reduced in adult ADHD.
+>
 >Excessive activity of the DMN is evident in ADHD and associated with poor decision-making.
 
 #### References
