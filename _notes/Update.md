@@ -1,3 +1,6 @@
+2022.04.18
+- [[O - 기분이 울적하거나 마음이 산란할 때 글을 써야 하는 이유]]
+
 2022.04.09
 - [[O - ADHD의 관점에서 본 개인지식관리(Personal Knowledge Management)]]
 - [[P - Tiago Forte의 세컨드 브레인 정의]]
