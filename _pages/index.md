@@ -16,3 +16,14 @@ permalink: /
     max-width: 46em;
   }
 </style>
+```
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZV8R56P3DH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZV8R56P3DH');
+</script>
+```
