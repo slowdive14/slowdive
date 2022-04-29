@@ -1,5 +1,7 @@
 ---
 title: Digital Garden of 잔향
+dg-home: true
+dg-publish: true
 ---
 
 ### Welcome!
