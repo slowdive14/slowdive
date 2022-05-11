@@ -1,5 +1,3 @@
-
-
 ---
 title: P - fixed mindset도 나름의 존재 이유가 있고, 서로 다른 영역에 위치하며 growth mindset과 양립 가능하다
 ---
