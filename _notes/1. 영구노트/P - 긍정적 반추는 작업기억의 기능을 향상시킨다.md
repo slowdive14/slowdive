@@ -1,5 +1,6 @@
 ---
 title: P - 긍정적 반추는 작업기억의 기능을 향상시킨다
+comments: true
 ---
 
 Created: 2022-04-11

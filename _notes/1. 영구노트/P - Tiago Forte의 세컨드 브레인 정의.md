@@ -1,5 +1,6 @@
 ---
 title: P - Tiago Forte의 세컨드 브레인 정의
+comments: true
 ---
 ---
 

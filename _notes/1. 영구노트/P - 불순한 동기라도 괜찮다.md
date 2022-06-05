@@ -1,5 +1,6 @@
 ---
 title: P - 불순한 동기라도 괜찮다
+comments: true
 ---
 
 Created: 2021-12-27

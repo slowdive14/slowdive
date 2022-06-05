@@ -1,5 +1,6 @@
 ---
 title: P - 읽고 쓰는 것이 곧 성찰의 양이다
+comments: true
 ---
 
 Created: 2022-03-19

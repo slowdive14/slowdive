@@ -1,5 +1,6 @@
 ---
 title: P - 실수하며 어렵게 배워야 내 것이 된다
+comments: true
 ---
 
 Created: 2022-04-22

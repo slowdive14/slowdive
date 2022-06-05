@@ -1,5 +1,6 @@
 ---
 title: P - 불확실성은 위험의 원천이지만 보상의 원천이기도 하다
+comments: true
 ---
 
 Created: 2022-01-10

@@ -1,5 +1,6 @@
 ---
 title: O - ADHD의 관점에서 본 개인지식관리(Personal Knowledge Management)
+comments: true
 ---
 
 [Marie Poulin, Jesse J. Anderson, Bryan Jenks, Karaminder Ghuman: PKM Through the Lens of ADHD - YouTube](https://youtu.be/b3x2JHmVNpg)

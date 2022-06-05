@@ -1,5 +1,6 @@
 ---
 title: P - 위계적 아웃라인보다 토픽 수준의 아웃라인으로 글을 쓴다
+comments: true
 ---
 
 Created: 2022-04-01

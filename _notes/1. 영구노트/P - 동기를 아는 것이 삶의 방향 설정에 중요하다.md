@@ -1,5 +1,6 @@
 ---
 title: P - 동기를 아는 것이 삶의 방향 설정에 중요하다
+comments: true
 ---
 
 Created: 2022-01-19

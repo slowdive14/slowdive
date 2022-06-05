@@ -1,5 +1,6 @@
 ---
 title: P - 유능한 상담자란
+comments: true
 ---
 
 Created: 2022-03-15

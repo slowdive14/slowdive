@@ -1,5 +1,6 @@
 ---
 title: P - 책의 내용을 내 것으로 소화하는 법(분석적 읽기)
+comments: true
 ---
 
 Created: 2022-03-24

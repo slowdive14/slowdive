@@ -1,5 +1,6 @@
 ---
 title: P - 불확실성은 부정적, 긍정적, 중립적으로 평가될 수 있다
+comments: true
 ---
 
 Created: 2022-04-11

@@ -1,5 +1,6 @@
 ---
 title: P - 후회를 미래 행동의 동기로 삼는다
+comments: true
 ---
 
 Created: 2022-03-28

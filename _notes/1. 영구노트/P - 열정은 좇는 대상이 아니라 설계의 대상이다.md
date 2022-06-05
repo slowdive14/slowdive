@@ -1,5 +1,6 @@
 ---
 title: P - 열정은 좇는 대상이 아니라 설계의 대상이다
+comments: true
 ---
 
 Created: 2022-01-20

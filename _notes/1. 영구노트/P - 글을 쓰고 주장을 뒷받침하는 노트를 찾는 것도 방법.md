@@ -1,5 +1,6 @@
 ---
 title: P - 글을 쓰고 주장을 뒷받침하는 노트를 찾는 것도 방법
+comments: true
 ---
 
 Created: 2022-04-04

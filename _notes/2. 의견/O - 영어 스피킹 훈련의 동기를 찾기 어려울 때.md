@@ -1,5 +1,6 @@
 ---
 title: O - 영어 스피킹 훈련의 동기를 찾기 어려울 때
+comments: true
 ---
 
 Created: 2022-03-30

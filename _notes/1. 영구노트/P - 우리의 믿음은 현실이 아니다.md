@@ -1,5 +1,6 @@
 ---
 title: P - 우리의 믿음은 현실이 아니다
+comments: true
 ---
 
 Created: 2022-03-18

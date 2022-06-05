@@ -1,5 +1,6 @@
 ---
 title: P - 날마다 유창하게 될 것이라고 믿어야 그렇게 된다
+comments: true
 ---
 
 Created: 2022-02-17

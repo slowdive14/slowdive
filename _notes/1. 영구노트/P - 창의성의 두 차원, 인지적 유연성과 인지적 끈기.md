@@ -1,5 +1,6 @@
 ---
 title: P - 창의성의 두 차원, 인지적 유연성과 인지적 끈기
+comments: true
 ---
 
 Created: 2022-04-18

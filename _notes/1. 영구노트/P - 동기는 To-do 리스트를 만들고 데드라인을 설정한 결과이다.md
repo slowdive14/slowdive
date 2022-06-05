@@ -1,5 +1,6 @@
 ---
 title: P - 동기는 To-do 리스트를 만들고 데드라인을 설정한 결과이다
+comments: true
 ---
 
 Created: 2022-03-28

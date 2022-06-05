@@ -1,5 +1,6 @@
 ---
 title: P - 질문을 중심으로 메모를 엮는다
+comments: true
 ---
 
 Created: 2022-04-01

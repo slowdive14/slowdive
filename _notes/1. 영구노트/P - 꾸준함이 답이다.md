@@ -1,5 +1,6 @@
 ---
 title: P - 꾸준함이 답이다
+comments: true
 ---
 
 Created: 2021-12-23

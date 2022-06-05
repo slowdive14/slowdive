@@ -1,5 +1,6 @@
 ---
 title: P - 충족감을 주는 일을 꾸준히 선택하며 우수성을 키운다
+comments: true
 ---
 
 Created: 2022-01-17
