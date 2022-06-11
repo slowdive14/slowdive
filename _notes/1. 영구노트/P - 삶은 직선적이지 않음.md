@@ -8,7 +8,7 @@ Created: 2022-06-11
 >The linear life is dead.
 
 #### References
-- [Bruce Feiler: How to master a life transition | TED Talk](https://www.ted.com/talks/bruce_feiler_how_to_master_a_life_transition)
+- [Bruce Feiler: How to master a life transition TED Talk](https://www.ted.com/talks/bruce_feiler_how_to_master_a_life_transition)
 
 #### 생각
 - 삶은 직선적이지 않음. 삶의 큰 변화가 2~5번은 찾아옴. 한 번의 변화가 완료되는 데 평균적으로 5년이니, 최대 25년의 이행기를 거침.
