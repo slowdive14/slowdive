@@ -9,7 +9,7 @@ Created: 2022-01-15
 >But the real point is that her decision to make such a radical change arose from the recognition that she’d never manage to build a more meaningful life—which for her meant cultivating a more mindful relationship with her family’s physical surroundings—by saving time and thereby squeezing more into her existing one. To make time for what mattered, she needed to give things up. Convenience culture seduces us into imagining that we might find room for everything important by eliminating only life’s tedious tasks. But it’s a lie. You have to choose a few things, sacrifice everything else, and deal with the inevitable sense of loss that results.
 
 #### References
-- [[Four Thousand Weeks]]
+- [[Four Thousand Weeks by Oliver Burkeman]]
 
 #### 생각
 - 시간을 '절약'하기 위해 편리함만을 추구한 결과는 의미없는 하찮은 것들에 몰두된 자신일 수 있다. 가령 배달음식.

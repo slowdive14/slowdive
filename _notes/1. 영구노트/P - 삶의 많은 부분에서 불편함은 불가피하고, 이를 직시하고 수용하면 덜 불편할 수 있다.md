@@ -9,7 +9,7 @@ Created: 2022-02-07
 >The way to find peaceful absorption in a difficult project, or a boring Sunday afternoon, isn’t to chase feelings of peace or absorption, but to  acknowledge the inevitability of discomfort, and to turn more of your attention to the reality of your situation than to railing against it.
 
 #### References
-- [[Four Thousand Weeks]]
+- [[Four Thousand Weeks by Oliver Burkeman]]
 
 #### 생각
 - 

@@ -8,7 +8,7 @@ Created: 2022-05-11
 >If you're willing to endure the discomfort of not knowing, a solution will often present itself.
 
 #### References
-- [[Four Thousand Weeks]]
+- [[Four Thousand Weeks by Oliver Burkeman]]
 
 #### 생각
 - 시간에 쫓기며 살기보다 아무것도 하지 않고 세 시간 동안 가만히 어떤 예술 작품을 들여다 보며 얻은 통찰에 관해 이야기하다가 이 얘기가 나옴. 
