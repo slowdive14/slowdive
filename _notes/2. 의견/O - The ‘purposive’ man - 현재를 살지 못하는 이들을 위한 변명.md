@@ -5,9 +5,10 @@ comments: true
 
 93년도에 대전에서 엑스포가 열렸을 때 사촌과 놀러갔던 기억이 있습니다. 저는 그 때 초등학생이었고요. 그 때 가장 기억나는 장면은, 나라별로 마련된 부스를 한 살 어린 사촌동생과 여기저기 모두 돌아보려고 안간힘을 썼던 것입니다. 결국 사촌동생은 저를 따라 다니다가 지쳐서 부모님에게로 돌아갔고 저는 홀로 부스들을 돌았습니다. 기억이 확실하지 않으나 아마 그랬을 것 같습니다. 책을 읽다가 아래 대목을 보고 떠오른 기억인데요.
 
->John Maynard Keynes saw the truth at the bottom of all this, which is that our fixation on what he called “purposiveness”—on using time well for future purposes, or on “personal productivity,” he might have said, had he been writing today—is ultimately motivated by the desire not to die. “The ‘purposive’ man,” Keynes wrote, “is always trying to secure a spurious and delusive immortality for his actions by pushing his interests in them forward into time. (중략) For him, jam is not jam unless it is a case of jam tomorrow and never jam today. Thus by pushing his jam always forward into the future, he strives to secure for his act of boiling it an immortality.”- Four Thousand Weeks by Oliver Burkeman 중에서 발췌
-<파파고 번역>
-존 메이너드 케인스는 이 모든 것의 밑바닥에 있는 진실을 보았는데, 그것은 그가 말하는 미래의 목적을 위해 시간을 잘 사용하는 것에 대한 우리의 집착, 혹은 그가 오늘날 글을 쓰고 있었다면 "개인 생산성"은 결국 죽지 않으려는 열망에 의한 것일지도 모른다는 것이다. 케인스는 "이 남자는 항상 자신의 행동에 대한 관심을 앞으로 밀어냄으로써 거짓되고 거짓된 불멸성을 확보하려고 한다"고 썼다. (중략) 그에게 잼은 내일 잼이 아니면 잼이 아니고 오늘은 절대 잼이 아닙니다. 따라서 그는 자신의 잼을 미래로 항상 밀고 나가면서, 그것을 불멸로 끓이는 자신의 행위를 안전하게 하려고 노력합니다."
+>John Maynard Keynes saw the truth at the bottom of all this, which is that our fixation on what he called “purposiveness”—on using time well for future purposes, or on “personal productivity,” he might have said, had he been writing today—is ultimately motivated by the desire not to die. “The ‘purposive’ man,” Keynes wrote, “is always trying to secure a spurious and delusive immortality for his actions by pushing his interests in them forward into time. (중략) For him, jam is not jam unless it is a case of jam tomorrow and never jam today. Thus by pushing his jam always forward into the future, he strives to secure for his act of boiling it an immortality.”- [[Four Thousand Weeks by Oliver Burkeman]] 중에서 발췌
+>
+>파파고 번역
+>존 메이너드 케인스는 이 모든 것의 밑바닥에 있는 진실을 보았는데, 그것은 그가 말하는 미래의 목적을 위해 시간을 잘 사용하는 것에 대한 우리의 집착, 혹은 그가 오늘날 글을 쓰고 있었다면 "개인 생산성"은 결국 죽지 않으려는 열망에 의한 것일지도 모른다는 것이다. 케인스는 "이 남자는 항상 자신의 행동에 대한 관심을 앞으로 밀어냄으로써 거짓되고 거짓된 불멸성을 확보하려고 한다"고 썼다. (중략) 그에게 잼은 내일 잼이 아니면 잼이 아니고 오늘은 절대 잼이 아닙니다. 따라서 그는 자신의 잼을 미래로 항상 밀고 나가면서, 그것을 불멸로 끓이는 자신의 행위를 안전하게 하려고 노력합니다."
 
 
 지금 여기에서 느껴지는 것들을 온전히 느끼기란 대단히 어려운 일입니다. 요즘처럼 폰을 늘 손에 들고 다니면서 하루에도 수백 수천 번을 들여다 보게 되는 그런 세상에서는 더 그렇죠. 마음챙김이다 뭐다 현존의 중요성을 강조하지만, 아마 대부분의 사람은 어린 제가 "다음 부스"에 정신이 팔린 채 이 부스 저 부스를 도장깨기 하듯 돌아다녔던 것처럼, 현재를 경험하기보다 미래의 무언가에 정신이 팔려서 저 인용구에 등장하는 The ‘purposive’ man처럼 행동하기 더 쉽지 않을까 합니다.
