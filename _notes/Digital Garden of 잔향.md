@@ -12,5 +12,4 @@ _I am testing this site._
 
 You can find some links of note below that is good to start exploring.🚀
 
-1. [[Update]]
-2. [[Index of Opinions]] 
+[[Update]]
