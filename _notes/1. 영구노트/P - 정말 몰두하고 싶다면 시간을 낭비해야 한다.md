@@ -1,5 +1,6 @@
 ---
 title: P - 정말 몰두하고 싶다면 시간을 낭비해야 한다
+comments: true
 ---
 
 Created: 2022-04-06
