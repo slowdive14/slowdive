@@ -9,11 +9,11 @@ comments: true
 
 이견이 있을 수 있으나 아래 범주 분류와 각각의 예를 달아 놓았습니다. 
 
-<img src="/_notes/Files/drawing.jpg"/>
+<img src="slowdive/_notes/Files/drawing.jpg"/>
 
 제가 피하는 자기계발서는 물론 과학적인 근거가 없거나 빈약한 내용을 담은 책입니다. 대중심리학과의 교집합은 있지만 심리학과의 교집합은 없는 책이죠. 잠깐 화제가 되기도 했던 더 해빙 같은 책이 그렇습니다. 그리고 아래 테드톡 영상도 마찬가지고요.
 
-[Your body language may shape who you are | Amy Cuddy - YouTube](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
+[Your body language may shape who you are. Amy Cuddy - YouTube](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
 
 몸의 자세를 바르게 하는 것만으로도 호르몬이 변화되고 자신감이 상승하며 궁극적으로는 인생이 달라질 수 있음을 주장하는 테드톡 연설입니다. 하지만 이 [연사](https://www.amycuddy.com/)가 [주장의 근거로 삼은 내용](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1kdjewoAAAAJ&citation_for_view=1kdjewoAAAAJ:Y0pCki6q_DkC)은 다른 연구자들의 반복검증을 통과하지 못했습니다. 만약 어떤 연구 결과가 참일 가능성이 높으려면 다른 사람들이 똑같이 실험 설계해도 같은 결과가 나와야 하는데 그렇지 않았다는 것이죠. 즉, 연구 결과가 신뢰롭지 않다는 말입니다.
 
