@@ -4,31 +4,23 @@ page_title: Search
 permalink: /search/
 ---
 
-<div class="container">
-<div class="row">
- <div class="col-12">
-   <div id="search-bar">
-     <i class="fa fa-search" aria-hidden="true"></i>
-     <input id="search-input" type="text" placeholder="Search..." />
-   </div>
-   <ul id="results-container"></ul>
- </div>
-</div>
-</div>
+<!-- HTML elements for search -->
+<input type="text" id="search-input" placeholder="Search blog posts..">
+<ul id="results-container"></ul>
 
-<!-- Script pointing to jekyll-search.js -->
-
-<script src="/assets/js/jekyll-search.js"></script>
-
-<script>
-  window.simpleJekyllSearch = new SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '/search.json',
-    searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-    noResultsText: 'No results found',
-    limit: 10,
-    fuzzy: false,
-    exclude: ['Welcome']
-  })
+<!-- or without installing anything -->
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+    
+    <script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+  noResultsText: 'No results found',
+  limit: 10,
+  fuzzy: false,
+  exclude: ['Welcome']
+})
 </script>
+
