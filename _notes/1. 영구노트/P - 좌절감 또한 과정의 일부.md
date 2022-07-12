@@ -8,7 +8,7 @@ Created: 2022-05-06
 >...When other people don't understand them. And I think they, they get frustrated because obviously, as you mentioned, you feel embarrassed, you feel, you know, like you're not doing enough, but this is part of the process.
 
 #### References
-- reallifeglobal.com/rlep278-i-didnt-understand-you/ 10분 56초 지점.
+- [Real Life English episode 278](https://reallifeglobal.com/rlep278-i-didnt-understand-you/) 10분 56초 지점.
 
 #### 생각
 - 다른 사람이 이해 못 한 것 같다면, 이해할 수 있게 다시 설명하면 됨. 

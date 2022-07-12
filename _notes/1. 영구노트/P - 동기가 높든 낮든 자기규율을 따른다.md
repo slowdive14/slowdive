@@ -8,7 +8,7 @@ Created: 2022-06-15
 >But where motivation is low, that's where discipline kicks in.
 
 #### References
-- [How a "Hi Level" Mindset Helps You Realize Your Potential | Cordae | TED - YouTube](https://www.youtube.com/watch?v=x9Ezzxy0frA) 6분 33초 지점
+- [How a "Hi Level" Mindset Helps You Realize Your Potential, Cordae, TED - YouTube](https://www.youtube.com/watch?v=x9Ezzxy0frA) 6분 33초 지점
 
 #### 생각
 - 방향이 맞다고 생각한다면 동기 수준의 변화는 중요하지 않다. 해야 할 일을 그저 하는 것이 중요하다.
