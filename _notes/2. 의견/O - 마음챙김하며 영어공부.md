@@ -7,13 +7,13 @@ comments: true
 
 99번 산란한 생각들에 주의를 뺏겨도 100번 호흡으로 되돌아오는 호흡명상처럼, 거듭된 좌절에도 불구하고 스스로가 정한 영어공부의 루틴을 이탈하지 않는 마음챙김적인 마인드셋이 중요합니다.
 
-> We need to slow down, and we need to accept that we're going to fail, and we're going to fail many, many times.[^2]
+>We need to slow down, and we need to accept that we're going to fail, and we're going to fail many, many times.[^2]
 > <br>우리는 속도를 늦춰야 합니다. 그리고 우리는 우리가 실패할 것이라는 것을 받아들여야 합니다. 그리고 우리는 여러 번 실패할 것입니다. - 파파고 번역
 
 완벽주의와 조급함의 조합만큼 영어공부에 독이 되는 것이 없다는 어느 [유튜버](https://youtu.be/OED7z7W2lOE)의 말에 공감하며, 위 인용한 문구에서처럼 장기적인 관점에서 조급함을 버리고 좌절과 실패를 환대하는 태도를 갖는 것도 중요해 보입니다.
 
->   I think that's the most important thing, is just acknowledging that actually sometimes there is no silver lining, sometimes it's not for a reason, sometimes things are just awful. And I think it's really important to be able to acknowledge that and sit with it.[^3]
->   <br>저는 그것이 가장 중요하다고 생각합니다. 단지, 어떤 때는 희망이 없을 때도 있고, 어떤 때는 이유가 없을 때도 있고, 어떤 때는 상황이 끔찍할 때도 있다는 것을 인정하는 것입니다. 그리고 저는 그것을 인정하고 함께 앉을 수 있는 것이 정말 중요하다고 생각합니다. - 파파고 번역
+>I think that's the most important thing, is just acknowledging that actually sometimes there is no silver lining, sometimes it's not for a reason, sometimes things are just awful. And I think it's really important to be able to acknowledge that and sit with it.[^3]
+><br>저는 그것이 가장 중요하다고 생각합니다. 단지, 어떤 때는 희망이 없을 때도 있고, 어떤 때는 이유가 없을 때도 있고, 어떤 때는 상황이 끔찍할 때도 있다는 것을 인정하는 것입니다. 그리고 저는 그것을 인정하고 함께 앉을 수 있는 것이 정말 중요하다고 생각합니다. - 파파고 번역
 
 몇 개월을 고군분투했음에도 실력이 제자리걸음인 것처럼 느껴질 때, 포기할까 싶을 때, 그저 그런 마음과 함께 머무는 것도 필요해 보이고요. 언어 습득은 평생의 과정임을 모두가 압니다. 6개월만에 영어로 유창하게 말할 수 있다고 광고하는 분들도 다 알 테고요.
 
