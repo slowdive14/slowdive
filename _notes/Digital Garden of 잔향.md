@@ -10,4 +10,4 @@ This is my digital garden.🌼
 
 You can find some links of note below that is good to start exploring.🚀
 
-[[Update]]
+[[Update]] (2022.09.09)
