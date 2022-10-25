@@ -1,4 +1,3 @@
-
 ---
 title: P - 감정 반응은 우리의 구성 작품
 comments: true
