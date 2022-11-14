@@ -27,6 +27,8 @@
 ### 개요
 - [[불확실한 상황에서 버텨내는 법(개요)]]
 
+---
+
 [^1]: [A Better Way to Worry, Hidden Brain Media](https://hiddenbrain.org/podcast/a-better-way-to-worry/)
 [^2]: [Frontiers, The Experiences of Mid-career and Seasoned Orchestral Musicians in the UK During the First COVID-19 Lockdown](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.645967/full)
 [^3]: [The “Burner List”—My simple, paper-based system for focused to-dos by Jake Knapp](https://medium.com/make-time/the-burner-list-my-simple-paper-based-system-for-focused-to-dos-95497321cf14)
