@@ -4,13 +4,7 @@ dg-home: true
 dg-publish: true
 ---
 
-### Welcome!
-
-My name is SONG-IN, OH.🙂
-
-This is my digital garden.🌼
-
-You can find some links of note below that is good to start exploring.🚀
+더 잘 살고 싶어서 씁니다.
 
 Since 2022.03.14
 
