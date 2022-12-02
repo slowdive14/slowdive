@@ -4,6 +4,9 @@ dg-show-backlinks: true
 dg-show-local-graph: true
 ---
 
+2022.12.02
+- [[O - 52주 동안 매주 한 편의 글을 쓸 수 있었던 이유]]
+
 2022.11.19
 - [[O - 소원을 적어봐]]
 
