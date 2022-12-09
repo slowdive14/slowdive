@@ -46,6 +46,7 @@
 
 
 > The first piece of advice I have is if you accept the idea that you're going to be a different person in 30 years' time, you should play an active role crafting the person you are going to become. You should be the curator of your future self. You should be the architect of your future self. 
+> <br>
 >첫 번째 조언은 30년 후에 다른 사람이 될 것이라는 생각을 받아들인다면, 여러분의 미래 자기를 만드는 적극적인 역할을 해야 한다는 것입니다. <u>당신은 미래의 자신의 큐레이터가 되어야 합니다</u>. 당신은 미래의 당신 자신을 설계해야 합니다.[^5]
 
 
