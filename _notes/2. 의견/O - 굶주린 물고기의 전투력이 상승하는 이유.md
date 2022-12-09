@@ -75,7 +75,7 @@
 ---
 
 [^1]: [Brain circuit activated by hunger makes starved fish fight for longer](https://phys.org/news/2020-08-brain-circuit-hunger-starved-fish.html)
-[^2]: 요약 과정에서 참고한 다른 영상입니다. Dorie Clark은 아티클의 저자 중 한 명입니다. [Dorie Clark | How to Be a Long Term Thinker in a Short Term World, Talks at Google - YouTube](https://youtu.be/cgp1RH4e858)
+[^2]: 요약 과정에서 참고한 다른 영상입니다. Dorie Clark은 아티클의 저자 중 한 명입니다. [Dorie Clark, How to Be a Long Term Thinker in a Short Term World, Talks at Google - YouTube](https://youtu.be/cgp1RH4e858)
 [^3]: [11월 영어 공부](https://slowdive14.tistory.com/1299927)
 [^4]: [52주 동안 매주 한 편의 글을 쓸 수 있었던 이유](https://slowdive14.tistory.com/1299929)
 [^5]: [Shankar Vedantam: You don't actually know what your future self wants, TED Talk](https://www.ted.com/talks/shankar_vedantam_you_don_t_actually_know_what_your_future_self_wants/transcript?language=en) 10분 45초
