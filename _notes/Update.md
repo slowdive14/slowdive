@@ -4,6 +4,9 @@ dg-show-backlinks: true
 dg-show-local-graph: true
 ---
 
+2022.12.09
+- [[O - 굶주린 물고기의 전투력이 상승하는 이유]]
+
 2022.12.02
 - [[O - 52주 동안 매주 한 편의 글을 쓸 수 있었던 이유]]
 
