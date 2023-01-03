@@ -1,11 +1,4 @@
----
-tistoryBlogName: slowdive14
-tistoryTitle: My 2022 Annual Review
-tistoryVisibility: "3"
-tistoryCategory: "20371"
-tistoryPostId: "1299947"
-tistoryPostUrl: https://slowdive14.tistory.com/1299947
----
+
 ## What went well this year?
 
 ### 영어공부
@@ -44,9 +37,9 @@ tistoryPostUrl: https://slowdive14.tistory.com/1299947
 
 ---
 
-[My 2021 Annual Review](https://slowdive14.tistory.com/1299747)
-[My 2020 Annual Review](https://slowdive14.tistory.com/1299498)
-[My 2019 Annual Review](https://slowdive14.tistory.com/1299107)
+- [My 2021 Annual Review](https://slowdive14.tistory.com/1299747)
+- [My 2020 Annual Review](https://slowdive14.tistory.com/1299498)
+- [My 2019 Annual Review](https://slowdive14.tistory.com/1299107)
 
 
 
