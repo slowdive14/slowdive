@@ -1,4 +1,4 @@
-[How to Beat Distraction, Expand Your Time, and Focus on What Matters Most | Talks at Google - YouTube](https://youtu.be/MhB-vr9a4ms)
+[How to Beat Distraction, Expand Your Time, and Focus on What Matters Most, Talks at Google - YouTube](https://youtu.be/MhB-vr9a4ms)
 
 UCLA professor Cassie Holmes talked about how we spend our time in a more meaningful way. 
 
