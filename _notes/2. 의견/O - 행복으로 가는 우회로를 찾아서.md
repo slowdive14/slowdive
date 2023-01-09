@@ -45,7 +45,7 @@ Photo by [Mariah Krafft](https://unsplash.com/@mariah_eternalcreative?utm_source
 - [[P - 행복은 강도가 아니라 빈도]]
 - [[Q - 내가 좋아하는 일을 통해 어떻게 사회에 기여할 수 있는가]]
 - [[O - 행복으로 가는 우회로를 찾아서.canvas]]
-- [[How to spend our time more meaningful way#^98edc5]]
+- [[How to spend our time more meaningful way]]
 	- 왜 그것이 하고 싶은지 집요하게 묻는다는 부분의 아이디어는 Cassied Holmes가 말한 Five Why에서 영감 얻음.
 
 
