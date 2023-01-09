@@ -4,6 +4,9 @@ dg-show-backlinks: true
 dg-show-local-graph: true
 ---
 
+2023.01.09
+- [[O - 행복으로 가는 우회로를 찾아서]]
+
 2023.01.03
 - [[2022년 습관 결산]]
 - [[My 2022 Annual Review]]
