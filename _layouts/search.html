@@ -1,15 +1,11 @@
-<!DOCTYPE html>
-<html>
-  <body>
-      <div id="wrap">
-            <!-- Main content -->
-          <div class="main-layout">
-              <div id="container-search">
-                  <main>
-                      {{ content }}
-                  </main>
-              </div>
-          </div>
-      </div>
-  </body>
-</html>
+{% raw %}
+---
+layout: default
+title: Search Results
+---
+<h2>Search Results</h2>
+
+<ul id="search-results"></ul>
+
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+{% endraw %}
