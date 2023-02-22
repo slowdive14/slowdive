@@ -1,11 +1,18 @@
-{% raw %}
 ---
 layout: default
 title: Search Results
 ---
-<h2>Search Results</h2>
 
-<ul id="search-results"></ul>
+<div id="search-results">
+  <ul>
+    {% for post in page.results %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <p>{{ post.description }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
 
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
-{% endraw %}
