@@ -50,4 +50,34 @@
     resultsContainer.style.display = "block";
   }
 
-  function 
+  function hideResults() {
+    resultsContainer.style.display = "none";
+  }
+
+  function searchButtonClicked(event) {
+    event.preventDefault();
+    search(searchInput.value);
+  }
+
+  function searchInputInputed(event) {
+    event.preventDefault();
+    search(searchInput.value);
+  }
+
+  function closeResults(event) {
+    if (!event.target.closest("#search-results")) {
+      hideResults();
+    }
+  }
+
+  document.addEventListener("click", closeResults);
+
+  document.addEventListener("DOMContentLoaded", function() {
+    searchInput = document.querySelector("#search-form input[name='query']");
+    searchButton = document.querySelector("#search-form button");
+    resultsContainer = document.querySelector("#search-results");
+    resultList = document.querySelector("#search-results ul");
+    searchInput.addEventListener("input", searchInputInputed);
+    searchButton.addEventListener("click", searchButtonClicked);
+  });
+})();
