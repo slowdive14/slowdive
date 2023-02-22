@@ -43,3 +43,12 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+plugins:
+  - jekyll-search-plugin
+
+search:
+  type: simple
+  template:
+    name: default
+    path: search.html
