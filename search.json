@@ -1,26 +1,11 @@
 [
-  {
-    "title": "First Post",
-    "date": "2022-01-01",
-    "categories": [
-      "jekyll"
-    ],
-    "tags": [
-      "example"
-    ],
-    "content": "<p>This is an example post.</p>",
-    "url": "/blog/2022/01/01/first-post.html"
-  },
-  {
-    "title": "Second Post",
-    "date": "2022-01-02",
-    "categories": [
-      "jekyll"
-    ],
-    "tags": [
-      "example"
-    ],
-    "content": "<p>This is another example post.</p>",
-    "url": "/blog/2022/01/02/second-post.html"
-  }
-]
+  {% for post in site.posts %}
+    {
+      "title": {{ post.title | jsonify }},
+      "description": {{ post.description | jsonify }},
+      "content": {{ post.content | strip_html | jsonify }},
+      "tags": {% assign tag_list = post.tags | sort %}[{% for tag in tag_list %}"{{ tag }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
+      "url": "{{ post.url | absolute_url }}",
+      "date": "{{ post.date | date: '%Y-%m-%d' }}"
+    }{% unless forloop.last %},{% endunless %}
+ 
