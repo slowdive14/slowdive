@@ -1,41 +1,53 @@
-window.onload = function() {
-  var searchTerm = getQueryVariable('query');
-  if (searchTerm) {
-    document.getElementById('search-box').setAttribute('value', searchTerm);
-    search(searchTerm);
+---
+---
+(function() {
+  var searchTerm, searchButton, results, resultList, index;
+
+  function highlightResult(str, search) {
+    return str.replace(
+      new RegExp(search, "gi"),
+      (match) => `<mark>${match}</mark>`
+    );
   }
-}
 
-function search(query) {
-  fetch('/search.json')
-    .then(response => response.json())
-    .then(data => {
-      var results = [];
-      data.forEach(item => {
-        var title = item.title;
-        var excerpt = item.excerpt;
-        var url = item.url;
-        if (title.toLowerCase().indexOf(query.toLowerCase()) != -1 ||
-            excerpt.toLowerCase().indexOf(query.toLowerCase()) != -1) {
-          results.push('<li><a href="' + url + '">' + title + '</a></li>');
-        }
+  function search(query) {
+    results = [];
+    index = lunr(function() {
+      this.ref("id");
+      this.field("title", { boost: 10 });
+      this.field("description", { boost: 5 });
+      this.field("content");
+      {% for post in site.posts %}
+      this.add({
+        id: {{ post.id }},
+        title: {{ post.title | jsonify }},
+        description: {{ post.description | jsonify }},
+        content: {{ post.content | strip_html | jsonify }}
       });
-      if (results.length > 0) {
-        document.getElementById('search-results').innerHTML = results.join('');
-      } else {
-        document.getElementById('search-results').innerHTML = '<li>No results found</li>';
-      }
+      {% endfor %}
     });
-}
 
-function getQueryVariable(variable) {
-  var query = window.location.search.substring(1);
-  var vars = query.split('&');
-  for (var i = 0; i < vars.length; i++) {
-    var pair = vars[i].split('=');
-    if (decodeURIComponent(pair[0]) == variable) {
-      return decodeURIComponent(pair[1]);
+    if (query !== "") {
+      searchTerm = query;
+      results = index.search(searchTerm).map(({ ref }) => parseInt(ref));
+      showResults();
+    } else {
+      hideResults();
     }
   }
-  return false;
-}
+
+  function showResults() {
+    resultList.innerHTML = "";
+    results.forEach(function(result) {
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      var post = window.store[result];
+      a.setAttribute("href", post.url);
+      a.innerHTML = highlightResult(post.title, searchTerm);
+      li.appendChild(a);
+      resultList.appendChild(li);
+    });
+    resultsContainer.style.display = "block";
+  }
+
+  function 
