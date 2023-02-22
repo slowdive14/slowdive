@@ -47,14 +47,7 @@ defaults:
 plugins:
   - jekyll-search-plugin
 
-search:
-  type: simple
-  template:
-    name: default
-    path: search.html
-  include:
-    - title
-    - content
-  limit: 10
-  tokenize: "lowercase"
-  stopwords: "_stopwords.txt"
+# Site navigation
+nav_links:
+  - title: Search
+    url: /search.html
