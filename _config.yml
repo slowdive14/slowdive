@@ -52,3 +52,9 @@ search:
   template:
     name: default
     path: search.html
+  include:
+    - title
+    - content
+  limit: 10
+  tokenize: "lowercase"
+  stopwords: "_stopwords.txt"
