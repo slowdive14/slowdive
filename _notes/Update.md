@@ -3,6 +3,7 @@ dg-publish: true
 dg-show-backlinks: true
 dg-show-local-graph: true
 ---
+[[search]]
 
 2023.02.06
 - [[영어공부에서 긍정적 자기확언의 힘]]
