@@ -21,22 +21,18 @@ layout: null
     if (!searchTerm) {
       return;
     }
-    index = lunr(function() {
-      this.field('title');
-      this.field('content');
-      this.ref('id');
-      {% assign count = 0 %}
-      {% for post in site.posts %}
-        {% assign count = count | plus: 1 %}
-        this.add({
-          title: {{ post.title | jsonify }},
-          content: {{ post.content | strip_html | jsonify }},
-          id: {{ count }}
+    $.getJSON('{{ "/search.json" | relative_url }}', function(data) {
+      index = lunr(function() {
+        this.field('title');
+        this.field('content');
+        this.ref('url');
+        $.each(data, function(i, post) {
+          this.add(post);
         });
-      {% endfor %}
+      });
+      results = index.search(searchTerm);
+      displayResults();
     });
-    results = index.search(searchTerm);
-    displayResults();
   }
 
   function displayResults() {
@@ -44,7 +40,7 @@ layout: null
     if (results.length) {
       $results.empty();
       results.forEach(function(result) {
-        var item = '<li><a href="' + '{{ site.baseurl }}' + '/' + '{{ site.posts[result.ref].url }}' + '">' + '{{ site.posts[result.ref].title }}' + '</a></li>';
+        var item = '<li><a href="' + '{{ site.baseurl }}' + result.ref + '">' + result.doc.title + '</a></li>';
         $results.append(item);
       });
     } else {
