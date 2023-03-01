@@ -6,7 +6,7 @@ Created: 2023-02-22
 >And what this means, the reason I like this, is that ultimately your brand is not what you say it is. It's not what you want it to be, what you wish it were. Your brain is what other people say it is. And so the starting point, always, is figuring out what other people think. And then, if it is not matching up, taking the actions you need proactively to get control over that. 
 
 #### References
-- [Reinventing You: Define Your Brand, Imagine Your Future | Dorie Clark | Talks at Google - YouTube](https://youtu.be/hEeXeblddSo?t=555)
+- [Reinventing You: Define Your Brand, Imagine Your Future, Dorie Clark, Talks at Google - YouTube](https://youtu.be/hEeXeblddSo?t=555)
 
 #### 생각
 - 브런치에서는 정신장애 연재글이 꾸준히 라이킷을 받고 있음.
