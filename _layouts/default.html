@@ -1,27 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="en">
----
-layout: default
----
-
-<header>
-  <h1>{{ site.title }}</h1>
-  <nav>
-    <ul>
-      <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    </ul>
-  </nav>
-  <form action="{{ '/search/' | relative_url }}" method="get">
-    <label for="search-input">Search</label>
-    <input type="search" id="search-input" name="q" placeholder="Search...">
-    <button type="submit">Search</button>
-  </form>
-</header>
-
-<main>
-  {{ content }}
-</main>
+  {% include head.html %}
   <body>
     <nav>{% include nav.html %}</nav>
     <div class="wrapper">
@@ -31,8 +11,7 @@ layout: default
 
     
  
-
-
+    
     
     
     {% include link-previews.html wrapperQuerySelector="content" %}
