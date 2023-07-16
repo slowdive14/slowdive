@@ -6,7 +6,7 @@ Created: 2023-07-06
 - Addiction is a disconnection to the future self and more of a present self orientation.
 
 #### References
-- [The Importance of Connecting with Your Future Self | 32sec snip from The One You Feed](https://share.snipd.com/snip/749b9be1-5ca7-45ad-84ef-337cae39a579)
+- [The Importance of Connecting with Your Future Self, 32sec snip from The One You Feed](https://share.snipd.com/snip/749b9be1-5ca7-45ad-84ef-337cae39a579)
 
 #### 생각
 - 
