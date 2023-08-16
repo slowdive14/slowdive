@@ -18,12 +18,6 @@ dg-publish: true
 Since 2022.03.14
 
 ---
-
-## 구슬글방 멤버가 운영하는 디지털가든
-<sub>계속 업데이트 되는 곳만 포함</sub>
-- [분석맨](https://secondbrain.analysisman.com/)
-
----
 ## 영구노트 MOCs
 
 감정과 뇌
