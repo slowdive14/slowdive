@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 틀려도 많이 영작해보는 것이 좋다
 ---
 

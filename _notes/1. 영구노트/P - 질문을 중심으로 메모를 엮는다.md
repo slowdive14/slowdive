@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 질문을 중심으로 메모를 엮는다
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 글쓰기에서의 창조력이란
 ---
 

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 제텔카스텐은 곧 효율적인 학습 방식과 같다
 comments: true
 ---

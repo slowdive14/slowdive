@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 사고의 발전이 있으려면 일단 써야 한다
 comments: true
 ---

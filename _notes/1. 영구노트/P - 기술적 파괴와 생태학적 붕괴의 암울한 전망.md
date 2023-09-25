@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 기술적 파괴와 생태학적 붕괴의 암울한 전망
 comments: true
 ---

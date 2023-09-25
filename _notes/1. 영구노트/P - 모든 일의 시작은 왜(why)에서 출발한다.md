@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 모든 일의 시작은 왜(why)에서 출발한다
 comments: true
 ---

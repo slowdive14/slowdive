@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 지식체계 구축이라는 목적은 모든 경험을 학습의 기회로 만든다
 comments: true
 ---

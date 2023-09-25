@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 기분이 울적하거나 마음이 산란할 때 글을 써야 하는 이유
 comments: true
 ---

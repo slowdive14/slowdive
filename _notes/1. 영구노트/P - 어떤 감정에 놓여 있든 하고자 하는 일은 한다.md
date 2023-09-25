@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 어떤 감정에 놓여 있든 하고자 하는 일은 한다
 comments: true
 ---

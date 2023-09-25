@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - ADHD의 관점에서 본 개인지식관리(Personal Knowledge Management)
 comments: true
 ---

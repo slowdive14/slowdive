@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 불순한 동기라도 괜찮다
 comments: true
 ---

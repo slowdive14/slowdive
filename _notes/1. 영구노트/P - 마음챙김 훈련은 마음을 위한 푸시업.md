@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 마음챙김 훈련은 마음을 위한 푸시업
 comments: true
 ---

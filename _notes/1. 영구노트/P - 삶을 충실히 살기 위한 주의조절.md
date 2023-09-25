@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 삶을 충실히 살기 위한 주의조절
 comments: true
 ---

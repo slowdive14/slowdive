@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 영어공부 회의감이 밀려올 때의 셀프 마음 처방
 comments: true
 ---

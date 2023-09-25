@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 끈기는 실패를 유용한 정보로 만든다
 comments: true
 ---

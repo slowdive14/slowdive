@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 글을 쓰며 생각을 발전시키는 상향식 글쓰기
 comments: true
 ---

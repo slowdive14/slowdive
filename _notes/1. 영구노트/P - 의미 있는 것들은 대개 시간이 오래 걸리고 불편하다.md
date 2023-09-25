@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 의미 있는 것들은 대개 시간이 오래 걸리고 불편하다
 comments: true
 ---

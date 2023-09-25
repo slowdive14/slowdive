@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-07-28
 
 >If you were climbing Everest, you could imagine that there would be some nights that were cold, that were dark, perhaps you'd be tired or strained.

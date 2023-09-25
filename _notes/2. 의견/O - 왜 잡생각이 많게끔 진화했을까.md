@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 왜 잡생각이 많게끔 진화했을까
 comments: true
 ---

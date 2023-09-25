@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 자신의 주의에 주의를 기울이라
 comments: true
 ---

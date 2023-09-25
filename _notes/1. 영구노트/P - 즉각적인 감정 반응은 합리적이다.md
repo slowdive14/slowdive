@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 즉각적인 감정 반응은 합리적이다
 comments: true
 ---

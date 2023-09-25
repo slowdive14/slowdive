@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 더 나은 내가 되는 하나의 수단으로서의 영어공부
 comments: true
 ---

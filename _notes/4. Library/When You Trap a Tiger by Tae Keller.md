@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: When You Trap a Tiger by Tae Keller
 comments: true
 ---

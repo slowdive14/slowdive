@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 자기자각과 마인드원더링의 관계
 comments: true
 ---

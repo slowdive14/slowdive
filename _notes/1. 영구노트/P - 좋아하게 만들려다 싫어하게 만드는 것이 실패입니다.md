@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 좋아하게 만들려다 싫어하게 만드는 것이 실패입니다
 comments: true
 ---

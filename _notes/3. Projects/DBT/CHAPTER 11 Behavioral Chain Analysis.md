@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: CHAPTER 11 Behavioral Chain Analysis
 ---
 

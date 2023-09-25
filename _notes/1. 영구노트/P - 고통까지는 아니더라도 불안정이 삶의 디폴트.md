@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 고통까지는 아니더라도 불안정이 삶의 디폴트
 comments: true
 ---

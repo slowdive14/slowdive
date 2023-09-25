@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-12-18
 
 >And the second thing that I would recommend is to take notes and write things down in English. I think that's really important. I think that's really, I mean, you get to know the way you think when you're writing. And it is easier to know like how much you can talk about some things. Like sometimes the language will will create limits when you're speaking. So if you're writing, you can come up with solutions. And if you don't know something in English, you can just research it. You sit down on the computer and you find out what you want to say. And you're going to find like really interesting stuff.

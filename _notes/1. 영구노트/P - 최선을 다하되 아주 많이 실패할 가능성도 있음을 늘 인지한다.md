@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 최선을 다하되 아주 많이 실패할 가능성도 있음을 늘 인지한다
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 자기계발서를 고르는 한 가지 방식
 comments: true
 ---

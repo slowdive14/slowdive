@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 직업에서 열정적이지 않아도 괜찮아
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 힘들지만 하기로 했으니 그냥 하는 것
 comments: true
 ---

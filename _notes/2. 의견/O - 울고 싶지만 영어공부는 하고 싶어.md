@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 울고 싶지만 영어공부는 하고 싶어
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 유능한 상담자란
 comments: true
 ---

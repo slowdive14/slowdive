@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2023-03-10
 
 >In fact, one of the things that made them great was their persistence in the face of self-doubt, criticism, and rejection.

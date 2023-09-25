@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-12-21
 
 >What should we focus on to help us manage our time better? 

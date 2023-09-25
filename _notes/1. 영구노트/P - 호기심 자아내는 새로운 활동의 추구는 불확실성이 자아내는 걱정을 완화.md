@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-11-08
 
 >Future research can also investigate how other psychological needs might intersect with the effects of waiting on well‐being. For example, recent work suggests that people have a need for novelty (González‐Cutre, Sicilia, Sierra, Ferriz, & Hagger, 2016). Perhaps pursuing novel activities can help to break the patterns of repetitive thought that are inherent in waiting. Such an idea is consistent with findings that engaging deeply in a task—finding a flow statealleviates distress while people awaiting uncertain news (Rankin, Walsh, & Sweeny, 2018).

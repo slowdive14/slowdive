@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 영어 공부의 목적에도 위계가 있고, 가장 상위의 목적은 스스로의 Best Version을 현실화하는 것임.
 comments: true
 ---

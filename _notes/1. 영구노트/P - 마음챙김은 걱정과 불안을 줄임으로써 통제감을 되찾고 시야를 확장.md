@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-11-11
 
 ><u>A balanced, clear person practicing mindfulness can better explore the external options as well, such as initiating the steps to navigate toward a new position, investigating independent business opportunities so that more control can be leveraged by the individual</u>, or even getting involved in social justice initiatives to change policies (cf. Blustein, 2006). Mindfulness, paradoxically, coexists with action and may be one of the greatest tools for surviving in an unstable, complex, and challenging world.

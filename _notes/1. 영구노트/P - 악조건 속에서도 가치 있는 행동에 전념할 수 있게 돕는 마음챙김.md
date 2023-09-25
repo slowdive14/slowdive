@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 악조건 속에서도 가치 있는 행동에 전념할 수 있게 돕는 마음챙김
 comments: true
 ---

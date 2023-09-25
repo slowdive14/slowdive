@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2023-01-10
 
 **✨ Key takeaways**

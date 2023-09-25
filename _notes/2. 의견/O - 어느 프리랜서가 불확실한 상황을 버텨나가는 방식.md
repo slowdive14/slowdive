@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 어느 프리랜서가 불확실한 상황을 버텨나가는 방식
 comments: true
 ---

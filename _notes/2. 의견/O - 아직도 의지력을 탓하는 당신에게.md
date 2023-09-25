@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 아직도 의지력을 탓하는 당신에게
 comments: true
 ---

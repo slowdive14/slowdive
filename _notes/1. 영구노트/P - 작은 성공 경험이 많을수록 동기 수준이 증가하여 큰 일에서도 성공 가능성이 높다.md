@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 작은 성공 경험이 많을수록 동기 수준이 증가하여 큰 일에서도 성공 가능성이 높다
 comments: true
 ---

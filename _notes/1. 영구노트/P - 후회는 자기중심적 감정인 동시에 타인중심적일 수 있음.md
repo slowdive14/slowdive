@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2023-04-29
 
 >And I think that, again, regret is based on this idea that we personally could have done something differently. And so in some ways, it's obviously a self-focused emotion. It's about what we should have done. But I think it can also be a fairly selfless emotion and be about how we relate to the people in the world around us. What responsibility do we have towards our fellow humans?

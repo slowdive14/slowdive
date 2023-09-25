@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 좀 못나 보여도 괜찮아
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 기억하기 위해서는 지엽적인 부분은 잊을 수 있어야 한다
 comments: true
 ---

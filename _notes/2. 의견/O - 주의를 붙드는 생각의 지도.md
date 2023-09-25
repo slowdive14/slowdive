@@ -1,10 +1,5 @@
 ---
-title: O - 주의를 붙드는 생각의 지도
-comments: true
 dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
-dg-permalink: "/2"
 ---
 
 시험 공부를 하기 전에 책상 정리를 하다가 방을 대청소하는 자신을 보게 되는 때가 살아가며 한두 번은 있게 마련입니다.

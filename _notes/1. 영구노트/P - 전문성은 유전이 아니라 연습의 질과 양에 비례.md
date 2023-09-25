@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 전문성은 유전이 아니라 연습의 질과 양에 비례
 comments: true
 ---

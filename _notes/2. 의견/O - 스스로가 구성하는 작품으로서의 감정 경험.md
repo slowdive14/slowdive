@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 스스로가 구성하는 작품으로서의 감정 경험
 comments: true
 ---

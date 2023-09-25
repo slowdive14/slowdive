@@ -1,5 +1,5 @@
 ---
-title: P - 아웃풋을 내는 게 중요
+dg-publish: true
 ---
 
 Created: 2022-08-24

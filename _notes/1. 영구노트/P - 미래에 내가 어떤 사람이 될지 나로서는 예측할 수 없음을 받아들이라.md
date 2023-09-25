@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 Created: 2022-10-07
 

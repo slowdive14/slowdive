@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 정보가 쌓여갈수록 핵심만 남기고 지우는 과정이 중요
 comments: true
 ---

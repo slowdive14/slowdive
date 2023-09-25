@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 동기가 높든 낮든 자기규율을 따른다
 comments: true
 ---

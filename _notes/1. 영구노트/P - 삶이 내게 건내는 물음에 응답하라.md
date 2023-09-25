@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 삶이 내게 건내는 물음에 응답하라
 comments: true
 ---

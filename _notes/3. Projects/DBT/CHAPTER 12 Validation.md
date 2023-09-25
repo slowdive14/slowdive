@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: CHAPTER 12 Validation
 ---
 

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 창의성도 습관이다
 ---
 

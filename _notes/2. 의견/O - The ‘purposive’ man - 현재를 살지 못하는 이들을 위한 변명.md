@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - The ‘purposive’ man - 현재를 살지 못하는 이들을 위한 변명
 comments: true
 ---

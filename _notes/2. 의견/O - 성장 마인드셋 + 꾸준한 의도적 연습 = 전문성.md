@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 성장 마인드셋 + 꾸준한 의도적 연습 = 전문성
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 내가 틀렸다고 말할 수 있는 용기
 comments: true
 ---

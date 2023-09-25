@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 지금 당장 잘하는 것을 찾지 못하더라도 어제보다 더 나은 자신이 되기 위해 좋은 습관을 형성해 나가는 것이 발전이다 
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 목표추구에 부합하는 습관의 지속은 회복력을 강화한다
 comments: true
 ---

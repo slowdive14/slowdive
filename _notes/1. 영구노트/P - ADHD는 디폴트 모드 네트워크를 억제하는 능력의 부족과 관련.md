@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - ADHD는 디폴트 모드 네트워크를 억제하는 능력의 부족과 관련
 comments: true
 ---

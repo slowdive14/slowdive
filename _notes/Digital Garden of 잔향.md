@@ -1,15 +1,17 @@
 ---
-title: Digital Garden of 잔향
+title: Start Here
 dg-home: true
 dg-publish: true
 ---
-
 >글쓰기의 목적은 살아남고 이겨내고 일어서는 것이다. 행복해지는 것이다. - < 유혹하는 글쓰기 > 중에서
-
 
 ## Last Update 
 
-2023.09.20
+> [!attention]+
+>https://slowdive.netlify.app/ 에서 접속하셨다면 https://slowdive.vercel.app/ 로 재접속 부탁드립니다.
+
+
+2023.09.21
 - [[인공지능이 현 노트와 유사한 다른 노트를 보여주면, 그 노트 중 일부를 연결하여 글을 씁니다]]
 - [[커리어와 부캐의 접점을 찾는 법]]
 - [[글쓰기는 질보다 양]]

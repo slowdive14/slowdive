@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 보통 사람의 보통 아닌 끈기
 comments: true
 ---

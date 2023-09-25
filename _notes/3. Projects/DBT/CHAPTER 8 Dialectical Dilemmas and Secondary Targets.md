@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: CHAPTER 8 Dialectical Dilemmas and Secondary Targets
 ---
 

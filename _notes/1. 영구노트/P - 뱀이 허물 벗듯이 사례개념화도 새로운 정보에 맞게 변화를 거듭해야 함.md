@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 뱀이 허물 벗듯이 사례개념화도 새로운 정보에 맞게 변화를 거듭해야 함
 comments: true
 ---

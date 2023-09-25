@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 창의적 사고를 위해서 현재 자신에게 도움이 되지 않는 것들을 정리함으로써 제로베이스를 만든다
 comments: true
 ---

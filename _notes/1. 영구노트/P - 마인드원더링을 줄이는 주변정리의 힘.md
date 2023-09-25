@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 마인드원더링을 줄이는 주변정리의 힘
 comments: true
 ---

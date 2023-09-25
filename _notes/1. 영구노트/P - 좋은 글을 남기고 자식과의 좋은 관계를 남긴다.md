@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 좋은 글을 남기고 자식과의 좋은 관계를 남긴다
 comments: true
 ---

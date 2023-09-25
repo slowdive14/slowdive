@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 유연한 마음의 극치(peak mind)를 가능케 하는 메모 습관
 comments: true
 ---

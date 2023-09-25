@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 가치 있는 것은 스트레스와 고민 속에서도 만족감을 준다
 comments: true
 ---

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![](https://i.imgur.com/92tOdAl.png)
 
 데드라인이 코앞이지만 어떻게든 일을 미루고자 했던 경험이 있을 겁니다. 

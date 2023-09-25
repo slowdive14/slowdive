@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 글쓰기의 부담을 줄이는 법_글을 쓰는 이유를 명확히 하기
 comments: true
 ---

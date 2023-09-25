@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 강박과 열정 사이
 comments: true
 ---

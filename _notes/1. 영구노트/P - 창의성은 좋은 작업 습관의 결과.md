@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 창의성은 좋은 작업 습관의 결과
 comments: true
 ---

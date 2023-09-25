@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 목록을 늘어놓은 후 분류함으로써 초점을 좁혀 나간다
 comments: true
 ---

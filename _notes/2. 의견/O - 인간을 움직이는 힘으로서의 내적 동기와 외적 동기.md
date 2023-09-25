@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ![](https://i.imgur.com/Fm0WYwe.jpg)
 이미지 출처: [텐아시아](https://tenasia.hankyung.com/tv-drama/article/2023011045634)

@@ -1,10 +1,7 @@
 ---
-title: O - 중심을 바로 서게 하는 지속의 힘
-comments: true
 dg-publish: true
-dg-show-local-graph: true
-dg-permalink: "/1"
 ---
+
 
 ## 성공하면 잘 산 것일까?
 

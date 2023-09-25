@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 가설은 잠시 잊고 상담 회기에 집중한다
 comments: true
 ---

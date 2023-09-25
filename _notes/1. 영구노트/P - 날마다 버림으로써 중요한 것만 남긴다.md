@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 날마다 버림으로써 중요한 것만 남긴다
 comments: true
 ---

@@ -1,9 +1,5 @@
 ---
-title: P - 가치 있게 여기는 일에 시간을 사용하는 사람이 부자
-comments: true
 dg-publish: true
-dg-show-backlinks: true
-dg-show-local-graph: true
 ---
 
 Created: 2022-09-09

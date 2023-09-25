@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 누구나 따라야 하는 정해진 길은 없다. 충족감을 주는 각자의 길이 있을 뿐이다
 comments: true
 ---

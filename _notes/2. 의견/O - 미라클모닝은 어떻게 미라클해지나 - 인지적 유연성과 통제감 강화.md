@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 미라클모닝은 어떻게 미라클해지나 - 인지적 유연성과 통제감 강화
 comments: true
 ---

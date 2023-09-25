@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: 
 ---
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2023-05-30
 
 >If we don’t see results, we get impatient and feel a strong urge to do something—anything—to expedite our progress. But often the best thing we can do is nothing—staying the course, tweaking as we go, and letting things unfold in their own time. 

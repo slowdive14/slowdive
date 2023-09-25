@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 자신에게 최적의 전략이 무엇인지 시행착오적으로 알아내는 데는 시간이 필요하다
 comments: true
 ---

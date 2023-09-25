@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 단출한 삶의 이점_유연함과 명확함
 comments: true
 ---

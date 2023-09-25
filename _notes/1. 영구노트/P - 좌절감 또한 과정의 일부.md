@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 좌절감 또한 과정의 일부
 comments: true
 ---

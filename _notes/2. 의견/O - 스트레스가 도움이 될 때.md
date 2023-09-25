@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 스트레스가 도움이 될 때
 comments: true
 ---

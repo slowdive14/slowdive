@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 후회를 미래 행동의 동기로 삼는다
 comments: true
 ---

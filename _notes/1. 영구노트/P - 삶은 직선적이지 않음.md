@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 삶은 직선적이지 않음
 comments: true
 ---

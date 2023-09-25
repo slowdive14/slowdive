@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2023-02-09
 
 >Language learning can be a beneficial hobby for individuals struggling with depression as it aligns with the concept of behavioral activation in cognitive-behavioral therapy. It provides a sense of accomplishment, engages the mind, promotes social connections, and can improve physical activity, all of which can help to improve mood and reduce symptoms of depression. Engaging in enjoyable and fulfilling activities, such as language learning, is a key component of treating depression and promoting overall well-being.

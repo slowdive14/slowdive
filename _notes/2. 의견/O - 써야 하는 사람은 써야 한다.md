@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 써야 하는 사람은 써야 한다
 comments: true
 ---

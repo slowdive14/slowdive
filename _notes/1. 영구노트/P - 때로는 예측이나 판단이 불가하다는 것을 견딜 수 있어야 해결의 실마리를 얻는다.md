@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 때로는 예측이나 판단이 불가하다는 것을 견딜 수 있어야 해결의 실마리를 얻는다
 comments: true
 ---

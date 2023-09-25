@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 마음챙김하며 영어공부
 comments: true
 ---

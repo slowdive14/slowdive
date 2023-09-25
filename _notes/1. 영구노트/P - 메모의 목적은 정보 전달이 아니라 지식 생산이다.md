@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 메모의 목적은 정보 전달이 아니라 지식 생산이다
 comments: true
 ---

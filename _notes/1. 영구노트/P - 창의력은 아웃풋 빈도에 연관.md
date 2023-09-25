@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-12-16
 
 >Having to work frequently, whether or not I feel inspired, will force me to lower my standards.

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 블로그는 청중을 향하는 공간이라기보다 자신의 생각을 키우는 공간이다
 comments: true
 ---

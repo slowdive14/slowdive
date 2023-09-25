@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 현재 느끼는 부정적 감정들도 소중하다
 comments: true
 ---

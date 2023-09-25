@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: Four Thousand Weeks by Oliver Burkeman
 comments: true
 ---

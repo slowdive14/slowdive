@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 나가떨어지지는 않을 만큼의 스트레스가 배움을 최적화한다
 comments: true
 ---

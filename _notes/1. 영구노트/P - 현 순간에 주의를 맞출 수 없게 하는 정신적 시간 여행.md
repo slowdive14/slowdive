@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 현 순간에 주의를 맞출 수 없게 하는 정신적 시간 여행
 comments: true
 ---

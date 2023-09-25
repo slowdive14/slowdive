@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 납치당한 주의력을 되찾아 분별력을 키우는 법
 comments: true
 ---

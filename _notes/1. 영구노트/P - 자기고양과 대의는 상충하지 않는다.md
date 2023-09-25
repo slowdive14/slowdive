@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-04-20
 
 >The ultimate goal is to serve a larger purpose, but the person recognizes that they can better help others by getting power first and then applying that power in the service of others.

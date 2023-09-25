@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 디폴트 모드 네트워크의 한 가지 기능은 과거의 기억을 소환하여 미래를 대비하는 것
 comments: true
 ---

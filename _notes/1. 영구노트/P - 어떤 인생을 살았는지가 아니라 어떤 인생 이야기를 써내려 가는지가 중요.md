@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 어떤 인생을 살았는지가 아니라 어떤 인생 이야기를 써내려 가는지가 중요
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 품위란 결과에 연연하지 않고 해야 할 일을 하는 것
 comments: true
 ---

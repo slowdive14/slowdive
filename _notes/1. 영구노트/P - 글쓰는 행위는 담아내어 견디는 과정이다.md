@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 글쓰는 행위는 담아내어 견디는 과정이다
 comments: true
 ---

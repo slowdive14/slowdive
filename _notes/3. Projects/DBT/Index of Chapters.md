@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: Index of Chapters
 tags: [MOC]
 ---

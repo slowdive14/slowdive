@@ -1,6 +1,8 @@
 ---
+dg-publish: true
 title: P - 지금 삶이 만족스럽지 않다면 대안이 무엇일지 생각하라
 comments: true
+dg-path:
 ---
 
 Created: 2022-09-28

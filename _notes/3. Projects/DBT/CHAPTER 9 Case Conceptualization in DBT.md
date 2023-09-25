@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: CHAPTER 9 Case Conceptualization in DBT
 ---
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-05-16
 
 >1) Listen an audio soap-opera 2) Talk with natives 3) Learn few words everyday 4) Write a journal using the words you have learned 5) Translations of a topic that interests you

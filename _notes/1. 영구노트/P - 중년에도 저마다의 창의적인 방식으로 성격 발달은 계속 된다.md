@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 중년에도 저마다의 창의적인 방식으로 성격 발달은 계속 된다
 comments: true
 ---

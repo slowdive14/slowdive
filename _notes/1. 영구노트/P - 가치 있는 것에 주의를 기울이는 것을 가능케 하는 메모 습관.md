@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 가치 있는 것에 주의를 기울이는 것을 가능케 하는 메모 습관
 comments: true
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 할 수 있는 것을 하고 결과는 내려 놓는다
 comments: true
 ---

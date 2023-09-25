@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 자신이 지금 어디로 가고 있는지 알고 있다고 믿는 것은 환상이다
 comments: true
 ---

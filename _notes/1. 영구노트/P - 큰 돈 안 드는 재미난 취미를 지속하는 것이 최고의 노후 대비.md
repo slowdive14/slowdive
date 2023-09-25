@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 큰 돈 안 드는 재미난 취미를 지속하는 것이 최고의 노후 대비
 comments: true
 ---

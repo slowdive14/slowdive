@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 유용한 자기기만이자 창작으로서의 방어
 comments: true
 ---

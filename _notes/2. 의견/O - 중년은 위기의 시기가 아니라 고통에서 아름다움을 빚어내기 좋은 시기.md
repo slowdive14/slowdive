@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 중년은 위기의 시기가 아니라 고통에서 아름다움을 빚어내기 좋은 시기
 comments: true
 ---

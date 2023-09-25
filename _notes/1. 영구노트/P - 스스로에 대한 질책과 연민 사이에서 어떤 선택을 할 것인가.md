@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 스스로에 대한 질책과 연민 사이에서 어떤 선택을 할 것인가
 comments: true
 ---

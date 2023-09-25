@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 옵시디언(Obsidian)을 활용한 상향식 글쓰기의 매력
 comments: true
 ---

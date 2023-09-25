@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 주의의 효율적 배분을 통해 창의적 사고를 촉진하는 세컨드 브레인
 comments: true
 ---

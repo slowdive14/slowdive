@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 듣는 귀를 지닌 수도사처럼
 comments: true
 ---

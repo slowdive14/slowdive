@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 자기중심적 사고와 탈자기중심적 사고의 사이에서
 comments: true
 ---

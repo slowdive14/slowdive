@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: P - 최고의 생산성은 쓸데없는 일을 줄이는 것
 comments: true
 ---

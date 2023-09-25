@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 품위 있는 사람이 되고 싶습니다
 comments: true
 ---

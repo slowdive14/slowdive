@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2022-05-30
 
 > If you want to learn a language efficiently, then you need to give that language life. Every word needs to connect to sounds and images and scents and tastes and emotions. Every bit of grammar can't be some kind of abstract grammatical code; it needs to be something that can help you tell your story. And if you do this, you will find that the words begin to stick in your mind, and the grammar, it begins to stick too.

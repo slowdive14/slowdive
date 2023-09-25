@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 영어공부의 최적점을 찾아서
 comments: true
 ---

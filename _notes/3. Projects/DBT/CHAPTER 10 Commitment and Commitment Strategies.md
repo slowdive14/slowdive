@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: CHAPTER 10 Commitment and Commitment Strategies
 ---
 

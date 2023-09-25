@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: O - 앞으로 이 행복이 몇 번이나 남았을까
 comments: true
 ---

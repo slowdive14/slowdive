@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Created: 2023-07-06
 
 인공지능 요약
